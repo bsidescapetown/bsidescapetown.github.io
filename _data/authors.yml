@@ -1,0 +1,44 @@
+mooncakeza:
+  name: "mooncakeza"
+  bio: "chookity pok!"
+  avatar: "/assets/images/authors/mooncakeza.png"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://www.logoff.co.za"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/geoffchisnall"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/geoffchisnall"
+    - label: "Keybase"
+      icon: "fas fa-fw fa-key"
+      url: "https://keybase.io/mooncakeza"
+
+bsidescpt:
+  name: "BSides Cape Town"
+  bio: ""
+  avatar: "/assets/images/authors/bsides.jpg"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://www.twitter.com/BSidesCapeTown"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UCf3DodO2LfdbtHywUpI-nPA"
+
+crypticG00se:
+  name: "Christo (Goose/crypticG00se) Goosen"
+  bio: "Lead Infosec/Devops/Backend, Ex CTO, OWASP Cape Town & Bsides Cape Town organizer. Blueteam, OSINT ctfs, Crypto currencies & photographer."
+  avatar: "/assets/images/authors/goose.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://christogoosen.co.za"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/crypticg00se"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/c-goosen"

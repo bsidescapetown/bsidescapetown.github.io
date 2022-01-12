@@ -1,0 +1,26 @@
+---
+layout: splash
+author_profile: true
+feature_row:
+  - image_path: /assets/images/hs1.png
+    alt: "mooncake"
+    title: "mooncake destroys planet"
+    excerpt: "The time has come for mooncake to shine."
+    url: https://hacksouth.africa
+  - image_path: /assets/images/hs3.png
+    alt: "hacking"
+    title: "Desktop Spring Cleaning"
+    excerpt: "Sping cleaning desktops is the new pineapple on pizza."
+    url: https://hacksouth.africa
+  - image_path: /assets/images/hs4.png
+    alt: "hacking"
+    title: "Strange Colours Seen"
+    excerpt: "The colours of the rainbows are so much more clearer now."
+    url: https://hacksouth.africa
+---
+<br>
+<center><b><i><h1 style="font-size:5vw">4 DECEMBER 2021</h1></i></b></center>
+<center><b><i><h1 style="font-size:2vw">Rising from the Ashes</h1></i></b></center>
+<br>
+{% include feature_row %}
+

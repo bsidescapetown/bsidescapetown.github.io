@@ -1,0 +1,12 @@
+# main links
+main:
+#  - title: "Quick-Start Guide"
+#    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "ABOUT US"
+    url: /about
+  - title: "BSIDES CONF 2021"
+    url: /bsides-conf/2021/
+  - title: "POSTS"
+    url: /posts/
+  - title: "PAST EVENTS"
+    url: /past-events/
