@@ -5,11 +5,11 @@ permalink: /codeofconduct/
 layout: single
 classes: wide
 author_profile: false
-toc: true
-toc_lable: "lable"
-toc_icon: "cog"
+# toc: true
+# toc_lable: "button"
+# toc_icon: "cog"
 ---
-# HEADING
+
 <p>BSides Cape Town is dedicated to providing a harassment-free conference experience for everyone, regardless of  race, gender, sex, pregnancy, marital status, ethnic or social origin, colour, sexual orientation, age, disability, religion, conscience, belief, culture, language and / or birth. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.</p>
 <p>Harassment includes, but is not limited to:</p>
 <ul>

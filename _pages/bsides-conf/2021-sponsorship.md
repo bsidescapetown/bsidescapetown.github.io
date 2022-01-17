@@ -1,7 +1,7 @@
 ---
 type: pages
 title: "Sponsorship 2021"
-permalink: /2021/sponsorship-2021
+permalink: /2021/sponsorship
 layout: single
 classes: wide
 author_profile: false
@@ -86,27 +86,23 @@ Permission to co-brand swag with the official BSides 2021 logo<br />
 <li>2 tickets to BSides Cape Town 2021.</li>
 </ul>
 <p><strong>Note: there will be only 1 drinks sponsor</strong></p>
-<table>
+<!-- <table>
 <tbody>
 <tr style="background-color: transparent; vertical-align: top;">
 <td style="padding: 10px 18px 0px 5px;" nowrap="nowrap"><a href="mailto:sponsorship@bsidescapetown.co.za?Subject=Gamer%20Sponsorship">Gamer</a></td>
 <td style="padding: 10px 18px 0px 5px;">The attendees will have electronic badges. Badges that can interact socially with systems you can help us build. If you are interested in playing let us know.</td>
 </tr>
-<tr style="background-color: transparent; vertical-align: top;">
-<td style="padding: 10px 18px 0px 5px;" nowrap="nowrap"></td>
-<td style="padding: 10px 18px 0px 5px;"></td>
-</tr>
 </tbody>
-</table>
-<hr />
-<table>
+</table> -->
+<!-- <table>
 <tbody>
 <tr style="background-color: transparent; vertical-align: top;">
 <td style="padding: 10px 18px 0px 5px;" nowrap="nowrap"><a href="mailto:sponsorship@bsidescapetown.co.za?Subject=Other%20Sponsorship">Other</a></td>
 <td style="padding: 10px 18px 0px 5px;">Do you have a brilliant, hackerish idea of something you’d like to do for the BSides Cape Town community? Excellent! What did you have in mind?</td>
 </tr>
 </tbody>
-</table>
+</table> -->
+> Do you have a brilliant, hackerish idea of something you’d like to do for the BSides Cape Town community? Excellent! What did you have in mind?
 <p><!--
 <table>
 <tbody>
