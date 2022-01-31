@@ -17,6 +17,14 @@ tags:
  - Community
 ---
 
+## **UPDATE 2021-11-03: The plans for Bsides Cape Town has changes since this post**  
+
+> ~  
+> ~
+> ~  
+  
+---  
+
 As organizer of BSIDES Cape Town, I thought it would be good to give some updates on the past and future of BSIDES Cape Town.
 We are still active, as some of you might have been wondering, planning the most out of 2021 despite lockdowns and any other surprises.
 After all as the fortune cookies says: "May you live in interesting times".
