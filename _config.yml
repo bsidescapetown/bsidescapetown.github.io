@@ -10,13 +10,13 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
+#theme                  : "minimal-mistakes-jekyll"
+remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" , "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "B-Sides Cape Town"
+title                    : "BSides Cape Town"
 title_separator          : "-"
 subtitle                 : Information Security Conference # site tagline that appears below site title in masthead
 name                     : ""
@@ -273,6 +273,12 @@ compress_html:
   ignore:
     envs: development
 
+event:
+  conference:
+    date: 3 December 2022
+    start_time: "Dec 3, 2022 08:30:00"
+    location: Cape Town Science Centre
+    theme: Rising from the ashes
 
 # Defaults
 defaults:

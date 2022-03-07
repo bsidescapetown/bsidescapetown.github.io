@@ -1,3 +1,12 @@
+# BSIDES CAPE TOWN
+
+Website of bsides Cape town
+
+To make changes Fork and submit a PR
+
+
+
+# THEME INFO
 # [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/mmistakes/minimal-mistakes/master/LICENSE)
