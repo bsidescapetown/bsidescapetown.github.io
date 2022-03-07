@@ -1,7 +1,7 @@
 ---
 type: pages
-title: "Call for Papers 2021"
-permalink: /2021/cfp
+title: "Rite of Passage 2022"
+permalink: /2022/Rite-of-Passage
 layout: single
 classes: wide
 author_profile: false

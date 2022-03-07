@@ -1,7 +1,7 @@
 ---
 type: pages
-title: "Volunteer 2021"
-permalink: /2021/volunteer
+title: "Volunteer 2022"
+permalink: /2022/volunteer
 layout: single
 classes: wide
 author_profile: false
@@ -11,7 +11,7 @@ Join the team and help out on the day. If you are keen to get an 'in' on what it
 
 On the day we will help with setting up the venue, herding speakers, herding conference attendees, scanning tickets, fixing badges, etc. You will get to brush shoulders with the greatest community and minds South Africa has to offer.  
 
-As a volunteer you could also be eligible for [rite of passage]({% link _pages/bsides-conf/2021-rite-of-passage.md %}).  
+As a volunteer you could also be eligible for [rite of passage]({% link _pages/bsides-conf/2022-rite-of-passage.md %}).  
 We also pick our future organizers from volunteers.
 We would love to have you so please make contact!  
 

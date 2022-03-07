@@ -1,7 +1,7 @@
 ---
 type: pages
-title: "Sponsorship 2021"
-permalink: /2021/sponsorship
+title: "Sponsorship 2022"
+permalink: /2022/sponsorship
 layout: single
 classes: wide
 author_profile: false
@@ -45,10 +45,10 @@ Watch this space...
 <ul>
 <li>Everything from silver <strong>PLUS &#8230;</strong></li>
 <li>Your banner (provided by you) on the main presentation stage.</li>
-<li>10 tickets to BSides Cape Town 2021</li>
+<li>10 tickets to BSides Cape Town 2022</li>
 <li>A mention at the opening of the conference.</li>
 <li><u>Exclusive</u><br />
-Permission to co-brand swag with the official BSides 2021 logo<br />
+Permission to co-brand swag with the official BSides 2022 logo<br />
 <sub>We will use the logo you provided us for the website for this.</sub></li>
 <li>Your own space at the venue (talk to us about space availability).</li>
 </ul>
@@ -60,8 +60,8 @@ Permission to co-brand swag with the official BSides 2021 logo<br />
 <ul>
 <li>Everything from bronze level <strong>PLUS &#8230;</strong></li>
 <li>Your banner (provided by you) at the venue.</li>
-<li>4 tickets to BSides Cape Town 2021.</li>
-<li>Your logo on the back of the official BSides 2021 t-shirt</li>
+<li>4 tickets to BSides Cape Town 2022.</li>
+<li>Your logo on the back of the official BSides 2022 t-shirt</li>
 </ul>
 <p><sub>We will use the logo you provided us for the website for this.</sub><br />
 <strong><a style="background: transparent;" href="mailto:sponsorship@bsidescapetown.co.za?subject=Silver sponsorship">Contact us to become a Silver sponsor!</a></strong></p>
@@ -69,10 +69,10 @@ Permission to co-brand swag with the official BSides 2021 logo<br />
 <h1>Bronze Sponsors</h1>
 <p>Watch this space&#8230;</p>
 <ul>
-<li>Your logo on the BSides Cape Town 2021 website.</li>
+<li>Your logo on the BSides Cape Town 2022 website.</li>
 <li>Our thanks via Twitter, and the opportunity to spread the word with us.</li>
 <li>Swag you want to give the attendees distributed at registration for you.</li>
-<li>2 tickets to BSides Cape Town 2021.</li>
+<li>2 tickets to BSides Cape Town 2022.</li>
 </ul>
 <p><strong><a style="background: transparent;" href="mailto:sponsorship@bsidescapetown.co.za?subject=Bronze sponsorship">Contact us to become a Bronze sponsor!</a></strong></p>
 <hr />
@@ -81,9 +81,9 @@ Permission to co-brand swag with the official BSides 2021 logo<br />
 <h1>Drinks Sponsor</h1>
 <ul>
 <li>You will be everyone&#8217;s friend at the after-party.</li>
-<li>Your logo on the BSides Cape Town 2021 website.</li>
+<li>Your logo on the BSides Cape Town 2022 website.</li>
 <li>Our thanks via Twitter, and the opportunity to spread the word with us.</li>
-<li>2 tickets to BSides Cape Town 2021.</li>
+<li>2 tickets to BSides Cape Town 2022.</li>
 </ul>
 <p><strong>Note: there will be only 1 drinks sponsor</strong></p>
 <!-- <table>
