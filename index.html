@@ -3,30 +3,32 @@ layout: splash
 author_profile: true
 feature_row:
   - image_path: /assets/images/hs3.png
-    alt: "CFP 2021"
+    alt: "CFP 2022"
     title: "Call For Papers"
-    excerpt: "The Call for Papers for BSides Cape Town 2021 is now OPEN"
-    url: https://docs.google.com/document/d/1PlSCEx2tmjN8oht5VI9VCNLyunt1Ri8_N7pmObhac0Y/edit#
+    excerpt: "The Call for Papers for BSides Cape Town 2022 is now OPEN"
+    url: /bsides-conf/2022-cfp
   - image_path: /assets/images/hs4.png
-    alt: "CFW 2021"
+    alt: "CFW 2022"
     title: "Call For Workshops"
     excerpt: "The Call for Workshops for BSides Cape Town 2021 is now OPEN"
-    url: https://bsidescapetown.co.za/bsides-2019/call-for-workshops-2021/
+    url: /bsides-conf/2022-cfw
   - image_path: /assets/images/hs1.png
     alt: "tickets"
     title: "TICKETS"
     excerpt: "Tickets are not yet available"
     url: https://bsidescapetown.co.za/bsides-2021-conf/tickets-2021/
+sponsor_row:
+
   
 ---
 
 <!--<center><img class="logo-main" src="/assets/images/BSides_Logo.png"></center>-->
 
-<center><b><h1 style="font-size:5vw">{{ site.event.conference.date }}</h1></b></center>
+<center><b><h1 style="font-size:4vw; margin:0!important">{{ site.event.conference.date }}</h1></b></center>
 
 <center>
 <!-- Display the countdown timer in an element -->
-<b><h1 style="font-size:3w"><p id="countdownElement"></p></h1></b>
+<b><h1 style="font-size:3w;margin:1%!important;padding:1%!important"><p id="countdownElement"></p></h1></b>
 
 <script>
 // Set the date we're counting down to
@@ -60,10 +62,11 @@ var x = setInterval(function() {
 </script>
 </center>
 <center><b><i>
-      <h1 class="bottom-text">{{ site.event.conference.location }}</h1>
+      <h1 class="bottom-text" style="margin:1%!important;padding:1%!important">{{ site.event.conference.location }}</h1>
     </i></b></center>
 
-<center><b><i><h1 class="bottom-text">Rising from the Ashes</h1></i></b></center>
+<center><b><i><h1 class="bottom-text" style="margin:1%!important;padding:1%!important">Theme: {{ site.event.conference.theme }}</h1></i></b></center>
 <br>
+{% include sponsor_row %}
 {% include feature_row %}
 

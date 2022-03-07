@@ -1,13 +1,15 @@
 {% if include.id %}
-  {% assign feature_row = page[include.id] %}
+  {% assign sponsor_row = page[include.id] %}
 {% else %}
-  {% assign feature_row = page.feature_row %}
+  {% assign sponsor_row = page.sponsor_row %}
 {% endif %}
-<center><b><i><h3 style="margin:1%!important;padding:1%!important">Featured Pages</h3></i></b></center>
+
+<center><b><i><h3 style="margin:1%!important;padding:1%!important">Sponsors</h3></i></b></center>
+<center>To sponsor please see the following: <a href="/2022/sponsorship">Click Here</a></center>
 
 <div class="feature__wrapper">
 
-  {% for f in feature_row %}
+  {% for f in sponsor_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
