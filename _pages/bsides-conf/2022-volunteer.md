@@ -15,4 +15,4 @@ As a volunteer you could also be eligible for [rite of passage]({% link _pages/b
 We also pick our future organizers from volunteers.
 We would love to have you so please make contact!  
 
-Contact: [organisers@bsidescapetown.co.za](mailto:organisers@bsidescapetown.co.za) / [christo@bsidescapetown.co.za](mailto:christo@bsidescapetown.co.za)
+Contact: [organisers@bsidescapetown.co.za](mailto:organisers@bsidescapetown.co.za) / [christo@bsidescapetown.co.za](mailto:christo@bsidescapetown.co.za)/ [charles@bsidescapetown.co.za](mailto:charles@bsidescapetown.co.za)
