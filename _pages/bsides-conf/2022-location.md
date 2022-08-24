@@ -8,7 +8,7 @@ author_profile: false
 ---
 
 ## Location:
-The Old Biscuitmill Conference and Events:  [https://tobmce.co.za/)
+The Old Biscuitmill Conference and Events Venue:  [https://tobmce.co.za/)
 
 Upstairs of the location you might know as the biscuit mill market, there is a stunning conference venue we will call home 2022.
 
