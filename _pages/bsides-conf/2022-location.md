@@ -8,13 +8,16 @@ author_profile: false
 ---
 
 ## Location:
-Cape Town Science Centre:  [https://www.ctsc.org.za](https://www.ctsc.org.za)
+The Old Biscuitmill Conference and Events:  [https://tobmce.co.za/)
 
-As stated on their website a Science centre is: "A science centre is exactly as the word describes: a hub of science which aims to enrich the school curriculum and equip learners by providing valuable hands-on learning experiences using world class exhibits that are designed to increase learners’ skill and understanding of science, technology and maths – demystifying the world of science & technology".
+Upstairs of the location you might know as the biscuit mill market, there is a stunning conference venue we will call home 2022.
 
-We are excited to use a institution of science and innovative curiosity to host our BSIDES Cape Town 2022 event. 
-Map:
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3310.1161613661575!2d18.461793015165348!3d-33.93814033009232!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1dcc5d058484eba7%3A0xd4bb85c829464c5!2sCape%20Town%20Science%20Centre!5e0!3m2!1sen!2sza!4v1646655787351!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+Though its the same venue of the Biscuit Mill market, and the same day, the conference venue is seperated from the choas. 
+And you might just want to venture into the chaos inbetween amazing talks.
+
+Parking will be available and secure at the College of Cape Town accross the street. See google maps: [Map](https://goo.gl/maps/eMu5EqAxYTK1V26N6)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13242.12485445135!2d18.4571621!3d-33.9274629!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x39cc47e5b0eb6340!2sThe%20Old%20Biscuit%20Mill!5e0!3m2!1sen!2sza!4v1661353026841!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 Images:
 
