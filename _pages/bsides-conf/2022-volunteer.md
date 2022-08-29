@@ -11,8 +11,11 @@ Join the team and help out on the day. If you are keen to get an 'in' on what it
 
 On the day we will help with setting up the venue, herding speakers, herding conference attendees, scanning tickets, fixing badges, etc. You will get to brush shoulders with the greatest community and minds South Africa has to offer.  
 
-As a volunteer you could also be eligible for [rite of passage]({% link _pages/bsides-conf/2022-rite-of-passage.md %}).  
+As a volunteer you could also be eligible for rite of passage.  
 We also pick our future organizers from volunteers.
 We would love to have you so please make contact!  
 
-Contact: [organisers@bsidescapetown.co.za](mailto:organisers@bsidescapetown.co.za) / [christo@bsidescapetown.co.za](mailto:christo@bsidescapetown.co.za)/ [charles@bsidescapetown.co.za](mailto:charles@bsidescapetown.co.za)
+Contact:  
+[organisers@bsidescapetown.co.za](mailto:organisers@bsidescapetown.co.za)  
+[christo@bsidescapetown.co.za](mailto:christo@bsidescapetown.co.za)  
+[charles@bsidescapetown.co.za](mailto:charles@bsidescapetown.co.za)  
