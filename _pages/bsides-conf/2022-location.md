@@ -8,7 +8,7 @@ author_profile: false
 ---
 
 ## Location:
-The Old Biscuitmill Conference and Events Venue:  [https://tobmce.co.za/)
+The Old Biscuitmill Conference and Events Venue:  [https://tobmce.co.za/](https://tobmce.co.za/)
 
 Upstairs of the location you might know as the biscuit mill market, there is a stunning conference venue we will call home 2022.
 
@@ -21,12 +21,9 @@ Parking will be available and secure at the College of Cape Town accross the str
 
 Images:
 
-[//]: # (<img src="https://www.ctsc.org.za/wp-content/gallery/ctsc-gallery/exhibitoon_floor2_0.jpg" />)
-[//]: # (<img src="https://www.ctsc.org.za/wp-content/uploads/2015/11/Auditorium-300-x-200.jpg" />)
-[//]: # (<img src="https://www.ctsc.org.za/wp-content/uploads/2013/05/SAP-Auditorium-launch-300.jpg" />)
 
-[//]: # (<img src="https://www.ctsc.org.za/wp-content/gallery/ctsc-gallery/multimedia.jpg" />)
-![](https://www.ctsc.org.za/wp-content/gallery/ctsc-gallery/exhibitoon_floor2_0.jpg){: .align-center}
-![](https://www.ctsc.org.za/wp-content/uploads/2015/11/Auditorium-300-x-200.jpg){: .align-center}
-![](https://www.ctsc.org.za/wp-content/uploads/2013/05/SAP-Auditorium-launch-300.jpg){: .align-center}
-![](https://www.ctsc.org.za/wp-content/gallery/ctsc-gallery/multimedia.jpg){: .align-center}
+![Preview](/assets/images/2022/tigerlilly.jpg)
+![Preview](/assets/images/2022/tigerlilly2.jpg)
+---
+![Preview](/assets/images/2022/fynbos.jpg)
+![Preview](/assets/images/2022/fynbos2.jpg)
