@@ -18,17 +18,23 @@ feature_row:
     excerpt: "Tickets are available!"
     url: https://qkt.io/M9YKVw
 sponsor_row:
+  - image_path: /assets/images/entersekt_logo.png
+    level: Platinum
+    alt: "Entersekt"
+    title: "Entersekt"
+    excerpt: "We are excited to announce Entersekt as a platinum sponsor!"
+    url: https://www.entersekt.com/
 
   
 ---
 
 <!--<center><img class="logo-main" src="/assets/images/BSides_Logo.png"></center>-->
 
-<center><b><h1 style="font-size:4vw; margin:0!important">{{ site.event.conference.date }}</h1></b></center>
+<center><b><h1 style="font-size:4vw; margin:0!important;color:#de7838;">{{ site.event.conference.date }}</h1></b></center>
 
 <center>
 <!-- Display the countdown timer in an element -->
-<b><h1 style="font-size:3w;margin:1%!important;padding:1%!important"><p id="countdownElement"></p></h1></b>
+<b><h3 style="height:80%;font-size:2w;margin:0.5%!important;color:#de7838;"><p id="countdownElement"></p></h3></b>
 
 <script>
 // Set the date we're counting down to
@@ -62,10 +68,11 @@ var x = setInterval(function() {
 </script>
 </center>
 <center><b><i>
-      <h1 class="bottom-text" style="margin:1%!important;padding:1%!important">{{ site.event.conference.location }}</h1>
+      <h3 style="margin:1%!important;padding:1%!important">Venue: {{ site.event.conference.location }}</h3>
     </i></b></center>
 
-<center><b><i><h1 class="bottom-text" style="margin:1%!important;padding:1%!important">Theme: {{ site.event.conference.theme }}</h1></i></b></center>
+<center><b><i><h3 style="margin:1%!important;padding:1%!important">Theme: {{ site.event.conference.theme }}</h3></i></b></center>
+<div class="border-bottom: 1px solid #51555d;"></div>
 <br>
 {% include sponsor_row %}
 {% include feature_row %}

@@ -72,6 +72,19 @@
   }
 }
 
+.archive__item-excerpt-smaller {
+  margin-top: 0;
+  font-size: $type-size-4;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+    position: relative;
+  }
+}
+
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
@@ -237,6 +250,10 @@
 /*
    Features
    ========================================================================== */
+
+  .sponsor_top_border {
+    border-top: 1px solid $border-color;
+  }
 
 .feature__wrapper {
   @include clearfix();
