@@ -7,13 +7,13 @@
 <center class="sponsor_top_border"><b><i><h3 style="margin:1%!important;padding:1%!important">Sponsors</h3></i></b></center>
 <center>To sponsor please see the following: <a href="/2022/sponsorship">Click Here</a></center>
 
-<div class="feature__wrapper">
+<div class="feature__wrapper mt">
 
   {% for f in sponsor_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item" style="width: 80%; max-height:80%">
         {% if f.image_path %}
-          <div class="archive__item-teaser">
+          <div class="archive__item-teaser sponsor-logo">
             <img src="{{ f.image_path | relative_url }}"
                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% if f.image_caption %}
