@@ -1,7 +1,10 @@
 {% if include.id %}
-  {% assign sponsor_row = page[include.id] %}
+  {% assign platinum_sponsor_row = page[include.id] %}
 {% else %}
-  {% assign sponsor_row = page.sponsor_row %}
+  {% assign platinum_sponsor_row = page.platinum_sponsor_row %}
+  {% assign gold_sponsor_row = page.gold_sponsor_row %}
+  {% assign silver_sponsor_row = page.silver_sponsor_row %}
+  {% assign ctf_sponsor_row = page.ctf_sponsor_row %}
 {% endif %}
 
 <center class="sponsor_top_border"><b><i><h3 style="margin:1%!important;padding:1%!important">Sponsors</h3></i></b></center>
@@ -9,7 +12,11 @@
 
 <div class="feature__wrapper mt">
 
-  {% for f in sponsor_row %}
+{% if page.platinum_sponsor_row %}
+<div class="sponsor_tier_wrapper mt">
+   <center><b><i><h3 style="margin:1%!important;padding:1%!important">Platinum Sponsors</h3></i></b></center>
+
+  {% for f in platinum_sponsor_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item" style="width: 80%; max-height:80%">
         {% if f.image_path %}
@@ -44,4 +51,172 @@
     </div>
   {% endfor %}
 
+</div>
+{% endif %}
+
+{% if page.gold_sponsor_row %}
+<div class="sponsor_tier_wrapper mt">
+   <center><b><i><h3 style="margin:1%!important;padding:1%!important">Gold Sponsors</h3></i></b></center>
+  {% for f in gold_sponsor_row %}
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item" style="width: 80%; max-height:80%">
+        {% if f.image_path %}
+          <div class="archive__item-teaser sponsor-logo">
+            <img src="{{ f.image_path | relative_url }}"
+                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          {% if f.level %}
+            <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
+
+{% if page.silver_sponsor_row %}
+<div class="sponsor_tier_wrapper mt">
+   <center><b><i><h3 style="margin:1%!important;padding:1%!important">Silver Sponsors</h3></i></b></center>
+  {% for f in silver_sponsor_row %}
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item" style="width: 80%; max-height:80%">
+        {% if f.image_path %}
+          <div class="archive__item-teaser sponsor-logo">
+            <img src="{{ f.image_path | relative_url }}"
+                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          {% if f.level %}
+            <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
+
+{% if page.bronze_sponsor_row %}
+<div class="sponsor_tier_wrapper mt">
+   <center><b><i><h3 style="margin:1%!important;padding:1%!important">Bronze Sponsors</h3></i></b></center>
+  {% for f in bronze_sponsor_row %}
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item" style="width: 80%; max-height:80%">
+        {% if f.image_path %}
+          <div class="archive__item-teaser sponsor-logo">
+            <img src="{{ f.image_path | relative_url }}"
+                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          {% if f.level %}
+            <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
+
+{% if page.ctf_sponsor_row %}
+
+
+<div class="sponsor_tier_wrapper mt">
+   <center><b><i><h3 style="margin:1%!important;padding:1%!important">CTF Sponsors</h3></i></b></center>
+  {% for f in ctf_sponsor_row %}
+    <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item" style="width: 80%; max-height:80%">
+        {% if f.image_path %}
+          <div class="archive__item-teaser sponsor-logo">
+            <img src="{{ f.image_path | relative_url }}"
+                 alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          {% if f.level %}
+            <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3>
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
 </div>

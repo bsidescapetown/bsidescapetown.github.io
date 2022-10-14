@@ -255,6 +255,14 @@
     border-top: 1px solid $border-color;
   }
 
+.sponsor_tier_wrapper{
+  @include clearfix();
+  margin-bottom: 2em;
+
+  .archive__item-title {
+    margin-bottom: 0;
+  }
+}
 .feature__wrapper {
   @include clearfix();
   margin-bottom: 2em;
