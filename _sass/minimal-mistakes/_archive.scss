@@ -254,16 +254,42 @@
   .sponsor_top_border {
     border-top: 1px solid $border-color;
   }
+.sponsor-row-heading {
+    color: #de7838;
+    margin: 1%!important;
+    padding:1%!important;
+}
+
+.sponsor-row-align {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.sponsor-row-col-md-1 {
+    display:inline-block;
+}
+
+.sp-img-css {
+    width: 80%; max-height:80%
+}
+.archive-item-custom-style{
+//     width: 80%;
+    max-height:80%;
+    height:100%;
+}
 
 .sponsor_tier_wrapper{
+
   @include clearfix();
-  margin-bottom: 2em;
+//   margin-bottom: 2em;
 
   .archive__item-title {
     margin-bottom: 0;
   }
 }
 .feature__wrapper {
+
   @include clearfix();
   margin-bottom: 2em;
   border-bottom: 1px solid $border-color;
