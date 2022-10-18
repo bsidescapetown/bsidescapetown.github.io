@@ -79,7 +79,7 @@ We are excited to announce the following speakers in track 1 of BSIDES Cape Town
   </tr>
   <tr>
     <td class="tg-tyfk">11h15 </td>
-    <td class="tg-0pky">Smart Watch Lobotomy - Dale Nuns<br></td>
+    <td class="tg-0pky">Smart Watch Lobotomy - Dale Nunns<br></td>
     <td class="tg-0pky">Talk 7</td>
   </tr>
   <tr>
