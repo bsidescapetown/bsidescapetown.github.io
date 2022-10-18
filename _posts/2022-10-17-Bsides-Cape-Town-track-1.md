@@ -1,38 +1,29 @@
 ---
-type: pages
-title: "BSIDES CONFERENCE 2022"
-permalink: /bsides-conf/2022
-layout: single
+title: "Bsides Cape Town 2022 conference track 1"
+author: crypticG00se
 classes: wide
-author_profile: false
+layout: single
+author_profile: true
+header:
+  teaser: /assets/images/Bsides/logo-bsides.png
+excerpt_separator: "<!--more-->"
+categories:
+ - Conference
+tags:
+ - Conference
+ - BSIDES
+ - Cape Town
+ - Infosec
+ - Community
+ - track1
+ - programme
 ---
 
-![Preview](/assets/images/2022/Conference_2022.png){:.align-center}
+---  
 
-BSIDES Cape Town is excited to announce our 2022 conference on the 3rd of  December.  
-Please see the following links for more info:  
+## Track 1 Announcement!
 
-
-## Call for Papers/Workshops:  
-- Call for papers:  [CFP](/assets/pdf/Call_for_Papers_2022.pdf)  
-- CFW (Call for Workshops):  [CFW](/assets/pdf/CFW_2022.pdf)  
-
-The deadline for submissions is 23:59 on the 30th of September 2022, but the earlier you submit the better. 
-
-## Tickets:
-Tickets available at quicket:  
-[https://www.quicket.co.za/events/161679-bsides-cape-town-2022-december-conference/](https://www.quicket.co.za/events/161679-bsides-cape-town-2022-december-conference/)
-
-
-## Location:
-The Old Biscuit Mill Conference and Events Venue:  
-[https://tobmce.co.za/](https://tobmce.co.za/) 
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13242.12485445135!2d18.4571621!3d-33.9274629!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x39cc47e5b0eb6340!2sThe%20Old%20Biscuit%20Mill!5e0!3m2!1sen!2sza!4v1661353026841!5m2!1sen!2sza" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
-More about the venue [here]({{ site.baseurl }}{% link _pages/bsides-conf/2022-location.md %})  
-
-## Programme:
+We are excited to announce the following speakers in track 1 of BSIDES Cape Town 2022 3 December:
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -144,11 +135,15 @@ More about the venue [here]({{ site.baseurl }}{% link _pages/bsides-conf/2022-lo
 </tbody>
 </table>
 
-## Other pages:
-  
-- [Sponsorship]({{ site.baseurl }}{% link _pages/bsides-conf/2022-sponsorship.md %})  
-  
-- [Volunteering]({{ site.baseurl }}{% link _pages/bsides-conf/2022-volunteer.md %})  
+## Conclusion
 
-[//]: # (- [Rite of Passage]({{ site.baseurl }}{% link _pages/bsides-conf/2022-rite-of-passage.md %}) )
+Thank you for everyone's continued interest and contributions to BSIDES Cape Town. Though the lockdowns have forced more people into the 
+digital realm, I have personally missed seeing all the familiar and new faces of BSIDES last December. Please join us again this year and keep an eye on the Twitter account.
+
+If you have any specific questions or thoughts don't hesitate to email me or the organisers at:
+christo@bsidescapetown.co.za / organisers@bsidescapetown.co.za
+
+**Hack the World**
+
+![](/assets/images/Bsides/IMG_20191207_174602.jpg){: .align-center}
 
