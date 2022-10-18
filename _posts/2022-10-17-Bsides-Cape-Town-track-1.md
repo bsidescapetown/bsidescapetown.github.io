@@ -114,7 +114,7 @@ We are excited to announce the following speakers in track 1 of BSIDES Cape Town
   </tr>
   <tr>
     <td class="tg-tyfk">15h50</td>
-    <td class="tg-0pky">(Final Keynote) DECEPTION VIA PERCEPTION: Jason E Street</td>
+    <td class="tg-0pky">(Final Keynote) DECEPTION VIA PERCEPTION: Jayson E Street</td>
     <td class="tg-0pky">None</td>
   </tr>
   <tr>
