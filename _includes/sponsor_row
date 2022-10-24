@@ -18,12 +18,12 @@
     <div class="sponsor_tier_wrapper mt sponsor-row-align">
 
   {% for f in platinum_sponsor_row %}
-    <div class="sponsor-row-col-md-1 sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
-      <div class="archive__item archive-item-custom-stylearchive-item-custom-style">
+    <div class="sponsor-row-col-md-1 sponsor-row-col-md-1  feature__item_platinum{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
-          <div class="archive__item-teaser sp-img">
+          <div class="archive__item-teaser sp-img-platinum">
             <img src="{{ f.image_path | relative_url }}"
-                 class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}

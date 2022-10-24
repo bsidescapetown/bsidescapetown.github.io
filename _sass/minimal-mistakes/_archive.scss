@@ -302,6 +302,17 @@
   }
 }
 
+.feature__item_platinum {
+  position: relative;
+  margin-bottom: 2em;
+  font-size: 1.125em;
+
+  @include breakpoint($small) {
+    float: left;
+    margin-bottom: 0;
+    width: span(5 of 12);
+   }}
+
 .feature__item {
   position: relative;
   margin-bottom: 2em;
