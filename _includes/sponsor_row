@@ -8,28 +8,29 @@
   {% assign ctf_sponsor_row = page.ctf_sponsor_row %}
 {% endif %}
 
-<center class="sponsor_top_border"><b><i><h2>Sponsors</h3></i></b></center>
+<center class="sponsor_top_border"><b><i><h2 class="mt2">Sponsors</h3></i></b></center>
 <center>To sponsor please see the following: <a href="/2022/sponsorship">Click Here</a></center>
 
-<div class="feature__wrapper mt">
+<div class="feature__wrapper my">
 
 {% if page.platinum_sponsor_row %}
     <center><b><i><h3 class="sponsor-row-heading">Platinum Sponsors</h3></i></b></center>
-    <div class="sponsor_tier_wrapper mt sponsor-row-align">
+    <div class="sponsor_tier_wrapper my sponsor-row-align">
 
   {% for f in platinum_sponsor_row %}
-    <div class="sponsor-row-col-md-1 sponsor-row-col-md-1  feature__item_platinum{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="sponsor-row-col-md-1 sponsor-row-col-md-1 feature__item_platinum{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img-platinum">
-            <img src="{{ f.image_path | relative_url }}"
-                  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            <a href="{{ f.url | relative_url }}">
+              <img src="{{ f.image_path | relative_url }}" class="my" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
           </div>
         {% endif %}
-
+        {% comment %}
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
@@ -48,6 +49,7 @@
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
+        {% endcomment %}
       </div>
     </div>
   {% endfor %}
@@ -64,14 +66,15 @@
       <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
-            <img src="{{ f.image_path | relative_url }}"
-                 class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            <a href="{{ f.url | relative_url }}">
+              <img src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
           </div>
         {% endif %}
-
+        {% comment %}
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
@@ -90,6 +93,7 @@
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
+        {% endcomment %}
       </div>
     </div>
   {% endfor %}
@@ -106,14 +110,15 @@
       <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
-            <img src="{{ f.image_path | relative_url }}"
-                 class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            <a href="{{ f.url | relative_url }}">
+              <img src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
           </div>
         {% endif %}
-
+        {% comment %}
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
@@ -132,6 +137,7 @@
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
+        {% endcomment %}
       </div>
     </div>
   {% endfor %}
@@ -142,20 +148,21 @@
 
 {% if page.bronze_sponsor_row %}
    <center><b><i><h3 class="sponsor-row-heading">Bronze Sponsors</h3></i></b></center>
-<div class="sponsor_tier_wrapper mt sponsor-row-align">
+<div class="sponsor_tier_wrapper mt sp-bronze sponsor-row-align">
   {% for f in bronze_sponsor_row %}
-    <div class="sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="sponsor-row-col-md-1 feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
-            <img src="{{ f.image_path | relative_url }}"
-                 class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            <a href="{{ f.url | relative_url }}">
+              <img src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
           </div>
         {% endif %}
-
+        {% comment %}
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
@@ -174,6 +181,7 @@
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
+        {% endcomment %}
       </div>
     </div>
   {% endfor %}
@@ -183,20 +191,21 @@
 
 {% if page.ctf_sponsor_row %}
    <center><b><i><h3 class="sponsor-row-heading">CTF Sponsors</h3></i></b></center>
-<div class="sponsor_tier_wrapper mt sponsor-row-align">
+<div class="sponsor_tier_wrapper my sponsor-row-align">
   {% for f in ctf_sponsor_row %}
     <div class="sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
-            <img src="{{ f.image_path | relative_url }}"
-                 class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            <a href="{{ f.url | relative_url }}">
+              <img src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
             {% endif %}
           </div>
         {% endif %}
-
+        {% comment %}
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
@@ -215,6 +224,7 @@
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
+        {% endcomment %}
       </div>
     </div>
   {% endfor %}

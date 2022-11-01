@@ -271,18 +271,17 @@
 }
 
 .sp-img-css {
-    width: 80%;
-    max-height:80%;
-    padding-right:10%;
-    padding-left:10%;
+    max-height: 80%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
-.archive-item-custom-style{
+.archive-item-custom-style {
 //     width: 80%;
-    max-height:80%;
-    height:100%;
+    max-height: 80%;
+    height: 100%;
 }
 
-.sponsor_tier_wrapper{
+.sponsor_tier_wrapper {
 
   @include clearfix();
 //   margin-bottom: 2em;
@@ -311,7 +310,8 @@
     float: left;
     margin-bottom: 0;
     width: span(5 of 12);
-   }}
+  }
+}
 
 .feature__item {
   position: relative;
