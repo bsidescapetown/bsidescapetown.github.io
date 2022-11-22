@@ -191,9 +191,9 @@
 
 {% if page.ctf_sponsor_row %}
    <center><b><i><h3 class="sponsor-row-heading">CTF Sponsors</h3></i></b></center>
-<div class="sponsor_tier_wrapper my sponsor-row-align">
+<div class="sponsor_tier_wrapper sponsor-row-align">
   {% for f in ctf_sponsor_row %}
-    <div class="sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+    <div class="sponsor-row-col-md-1 feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
