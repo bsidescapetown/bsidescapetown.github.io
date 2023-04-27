@@ -277,10 +277,10 @@ compress_html:
 
 event:
   conference:
-    date: 3 December 2022
-    start_time: "Dec 3, 2022 08:30:00"
-    location: The Old Biscuitmill Conference and Events Venue
-    theme: Hack From Home (HFH)
+    date: 2 December, 2023
+    start_time: "Dec 2, 2023 08:30:00"
+    location: University of Cape Town Breakwater Lodge - V&A Waterfront
+    theme: TBD
 
 # Defaults
 defaults:
