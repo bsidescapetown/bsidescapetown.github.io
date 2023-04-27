@@ -1,7 +1,7 @@
 ---
 type: pages
-title: "BSIDES CONFERENCE 2022 Location"
-permalink: /bsides-conf/2022-location
+title: "BSIDES CONFERENCE 2023 Location"
+permalink: /bsides-conf/2023-location
 layout: single
 classes: wide
 author_profile: false
@@ -10,7 +10,7 @@ author_profile: false
 ## Location:
 The Old Biscuitmill Conference and Events Venue:  [https://tobmce.co.za/](https://tobmce.co.za/)
 
-Upstairs of the location you might know as the biscuit mill market, there is a stunning conference venue we will call home 2022.
+Upstairs of the location you might know as the biscuit mill market, there is a stunning conference venue we will call home 2023.
 
 Though its the same venue of the Biscuit Mill market, and the same day, the conference venue is seperated from the choas. 
 And you might just want to venture into the chaos inbetween amazing talks.
@@ -22,8 +22,8 @@ Parking will be available and secure at the College of Cape Town accross the str
 Images:
 
 
-![Preview](/assets/images/2022/tigerlilly.jpg)
-![Preview](/assets/images/2022/tigerlilly2.jpg)
+![Preview](/assets/images/2023/tigerlilly.jpg)
+![Preview](/assets/images/2023/tigerlilly2.jpg)
 ---
-![Preview](/assets/images/2022/fynbos.jpg)
-![Preview](/assets/images/2022/fynbos2.jpg)
+![Preview](/assets/images/2023/fynbos.jpg)
+![Preview](/assets/images/2023/fynbos2.jpg)
