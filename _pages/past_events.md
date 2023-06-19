@@ -6,7 +6,49 @@ layout: single
 classes: wide
 author_profile: false
 ---
-				
+<h1>BSides Cape Town 2021</h1>
+<p>No event.</p>
+<p><strong>Talks:</strong></p>
+<hr />
+
+<h1>BSides Cape Town 2020</h1>
+<p>No event.</p>
+<p><strong>Talks:</strong></p>
+<hr />
+
+<h1>BSides Cape Town 2019</h1>
+<p>7 December 2019 at Dimension Data, Cape Town.</p>
+<p><strong>Talks:</strong></p>
+<ul>
+<li>Keynote:The Woman Who Squashed Terrorists When an Embassy gets Hacked &#8211; Chris Kubeka</li>
+<li>Hacking satellites with Software Defined Radio (SDR) - Gerard de Jong</li>
+<li>Macabre stories of a hacker in the public health sector (Chile)- Philippe Delteil</li>
+<li>Meticulously Modern Mobile Manipulations - Leon Jacobs</li>
+<li>Hashing the $#!+ out of firmware - Brent Shaw</li>
+<li>Put Words In My Mouth - Amy Manià</li>
+<li>Web Application Vulnerability Scanners: An Intro & Discussion - Robert Feeney</li>
+<li>How machine learning and AI can help reduce the cyber- attacks - Silent Dzikiti</li>
+<li>Natural Language Processing & Anomaly detection in Sys call logs - Christo Goosen</li>
+<li>Authentication is Broken. Can We Try Fix It? - Kgothatso Ngako</li>
+<li>The Nation State Actor Ate My Homework! - Liam Smit</li>
+<li>Gollum: One anti-phish bot to rule them all - Byron Rudman</li>
+<li>Multiple &#8211; Lightning talks</li>
+</ul>
+<p><strong>Sponsors:</strong></p>
+<ul>
+<li>Dimension Data</li>
+<li>MTN</li>
+<li>Telspace</li>
+<li>Contrast Security</li>
+<li>Entersekt</li>
+<li>Oracle</li>
+<li>Nclose</li>
+<li>Bitcrack Security</li>
+<li>Hack the Box</li>
+<li>F-Secure</li>
+</ul>
+<hr />
+
 <h1>BSides Cape Town 2018</h1>
 <p>1st of December 2018 at Dimension Data, Cape Town.</p>
 <p><strong>Talks:</strong></p>
