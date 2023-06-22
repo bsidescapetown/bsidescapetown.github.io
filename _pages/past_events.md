@@ -6,6 +6,42 @@ layout: single
 classes: wide
 author_profile: false
 ---
+
+<h1>BSides Cape Town 2022</h1>
+<p>3 December 2022 at The Old Biscuit Mill, Cape Town.</p>
+<p><strong>Talks:</strong></p>
+<ul>
+<li>Keynote: Made in SA - For the World - Haroon Meer</li>
+<li>ALL BARK, NO BYTE - Amy Manià</li>
+<li>Smart Watch Lobotomy - Dale Nunns</li>
+<li>XXX astroturfing campaign - Roelof Temmingh</li>
+<li>Home Alone isn’t scary, it’s inspiration - Dev Dua, Tyron Kemp, Denver Abrey</li>
+<li>The Russia-Ukraine War: A retrospective - Jared Naude</li>
+<li>An IOT War Story - Jason Spencer</li>
+<li>Securing a cloud native open source microservice based core branking system - Ntando Mngomezulu</li>
+<li>Abusing AWS Permissions - Teach an old dog new tricks - Jason Kessel</li>
+<li>An Investigation into the Sate of Web Based Crypto-Mining - Robert Len</li>
+<li>Permanently bricking smart contracts for fun and profit - Ashiq Amien</li>
+<li>Final Keynote: Deception via Perception - Jayson E Street</li>
+</ul>
+<p><strong>Sponsors:</strong></p>
+<ul>
+<li>Entersekt</li>
+<li>CrowdStrike</li>
+<li>Tenable</li>
+<li>Utility Warehouse</li>
+<li>Orange Cyberdefense</li>
+<li>Mobius Binary</li>
+<li>Redherd</li>
+<li>Hack South NPC</li>
+<li>Nclose</li>
+<li>GTconsult</li>
+<li>Keith Makan Security Consultancy</li>
+<li>Bitcrack Cyber Security</li>
+<li>Hack the Box</li>
+</ul>
+<hr />
+
 <h1>BSides Cape Town 2021</h1>
 <p>No event.</p>
 <p><strong>Talks:</strong></p>
