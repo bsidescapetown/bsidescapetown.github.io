@@ -10,9 +10,5 @@ author_profile: true
 
 ## Organisers
 
-![](/assets/images/authors/High_voltage_warning.jpg)||![](/assets/images/authors/High_voltage_warning.jpg)||![](/assets/images/authors/High_voltage_warning.jpg)||![](/assets/images/authors/High_voltage_warning.jpg)||![](/assets/images/authors/High_voltage_warning.jpg)||![](/assets/images/authors/High_voltage_warning.jpg)
+<img src="/assets/images/authors/High_voltage_warning.jpg" width="196" height="213">||<img src="/assets/images/authors/High_voltage_warning.jpg" width="196" height="213">||<img src="/assets/images/authors/High_voltage_warning.jpg" width="196" height="213">||<img src="/assets/images/authors/High_voltage_warning.jpg" width="196" height="213">||<img src="/assets/images/authors/High_voltage_warning.jpg" width="196" height="213">||<img src="/assets/images/authors/High_voltage_warning.jpg" width="196" height="213">
 Christo Goosen || Charles Wroth || Nuno Almeida || Geoffrey Chisnall || Isak van der Walt || Mike Davis
-
-<!--
-<img src="https://bsidescapetown.co.za/wp-content/uploads/2017/11/High_voltage_warning.jpg" width="196" height="213">||<img src="https://bsidescapetown.co.za/wp-content/uploads/2017/11/High_voltage_warning.jpg" width="196" height="213">||<img src="https://bsidescapetown.co.za/wp-content/uploads/2017/11/High_voltage_warning.jpg" width="196" height="213">||<img src="https://bsidescapetown.co.za/wp-content/uploads/2017/11/High_voltage_warning.jpg" width="196" height="213">
-Christo Goosen || Charles Wroth || Nuno Almeida || Geoffrey Chisnall || Isak van der Walt || Mike Davis -->
