@@ -47,4 +47,4 @@ Join our volunteer team and become a catalyst for change in the cybersecurity la
 
 To register your interest as a volunteer, please fill out our Volunteer Registration Form [HERE](https://forms.gle/RuxDtBB4xobcK3rUA). For any inquiries or further information, feel free to reach out to us at volunteer@bsidescapetown.co.za. Let's embark on this exhilarating journey together!
 
-Note: Volunteer roles will be assigned based on your skills, interests, availability, and potential contributions leading up to the conference. We appreciate your understanding that some roles may have limited capacity.
+Note: Volunteer roles will be assigned based on your skills, interests, availability, and potential contributions leading up to the conference. We appreciate your understanding that some roles may have limited capacity due to demand.
