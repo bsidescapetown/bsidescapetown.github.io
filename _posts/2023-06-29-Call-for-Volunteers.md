@@ -21,7 +21,7 @@ tags:
 
 ![](/assets/images/2023/cfv/callforvolunteers.png.jpg){: .align-center}
 
- ## Volunteers!!! ASSEMBLE
+## Volunteers!!! ASSEMBLE
 
 Are you ready to join the BSides Cape Town volunteer team? As we gear up for another exciting edition of our community-driven security event, we invite you to be a part of the action. Your dedication and support are vital to making our conference a memorable experience.
 
