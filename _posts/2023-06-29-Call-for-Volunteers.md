@@ -20,7 +20,7 @@ tags:
 ---
 
 
-![Call for Volunteers](/assets/images/2023/cfv/callforvolunteers.png){: .align-center}
+![Call for Volunteers](/assets/images/2023/cfv/callforvolunteers.png)
 
 ## Volunteers!!! ASSEMBLE
 
