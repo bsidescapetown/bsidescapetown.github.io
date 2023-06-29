@@ -5,7 +5,7 @@ classes: wide
 layout: single
 author_profile: true
 header:
-  teaser: /assets/images/2023/cfv/callforvolunteers.png.jpg
+  teaser: /assets/images/2023/cfv/callforvolunteers.png
 excerpt_separator: "<!--more-->"
 categories:
  - Conference
@@ -19,7 +19,8 @@ tags:
  - Volunteer
 ---
 
-![](/assets/images/2023/cfv/callforvolunteers.png.jpg){: .align-center}
+
+![Call for Volunteers](/assets/images/2023/cfv/callforvolunteers.png){: .align-center}
 
 ## Volunteers!!! ASSEMBLE
 
