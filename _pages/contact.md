@@ -7,6 +7,6 @@ classes: wide
 layout: single
 ---
 
-To contact us email us at organisers@bsidescapetown.co.za
+To contact us email us at <a href="mailto:organisers@bsidescapetown.co.za">organisers@bsidescapetown.co.za</a>
 
 Or DM us on twitter: https://twitter.com/BSidesCapeTown

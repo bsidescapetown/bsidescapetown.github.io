@@ -280,9 +280,9 @@ event:
     date: 2 December 2023
     start_time: "Dec 2, 2023 08:30:00"
     location: University of Cape Town Breakwater Lodge - V&A Waterfront
-    theme: TBD
-    cfp: TBA
-    cfw: TBA
+    theme: Dystopia Now
+    cfp: [CFP](https://pretalx.com/bsides-cape-town-2023/cfp)
+    cfw: [CFW](https://pretalx.com/bsides-cape-town-2023/cfp)
 
 # Defaults
 defaults:
