@@ -1,6 +1,6 @@
 ---
 title: "BSides Cape Town 2023 - Call for Papers and Workshops"
-author: mooncakeza
+author: crypticG00se
 classes: wide
 layout: single
 author_profile: true
