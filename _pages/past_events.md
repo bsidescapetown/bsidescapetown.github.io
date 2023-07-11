@@ -8,12 +8,10 @@ author_profile: false
 ---
 <h1>BSides Cape Town 2021</h1>
 <p>No event.</p>
-<p><strong>Talks:</strong></p>
 <hr />
 
 <h1>BSides Cape Town 2020</h1>
 <p>No event.</p>
-<p><strong>Talks:</strong></p>
 <hr />
 
 <h1>BSides Cape Town 2019</h1>
