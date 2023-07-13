@@ -29,11 +29,11 @@ tags:
 We are still buzzing on the energy of Bsides Cape Town 2022 and are excited to announce the Call for Papers (CFP) and Call for Workshops (CFW)! We call all hackers, defenders, developers and researchers to send us their proposals! We would also like to get more workshops this year as we received very good feedback on the 2022 workshops.
 
 ## Theme
-Enter a world where technology and humanity collide, where cyber threats abound, and the future teeters on the edge. Welcome to "Dystopia Now." Join us as we unravel the dark side of the digital realm and explore the intersection of cybersecurity and society. Step into the future and be part of the movement shaping a safer tomorrow.
+See our post about the theme for bsides called on: [Dystopia Now](https://bsidescapetown.co.za/conference/Theme-2023/)
 
 ## Process
 
-Submit your talk here : ![CFP/CFW website}(https://pretalx.com/bsides-cape-town-2023/cfp).
+Submit your talk here : ![CFP/CFW website}(https://pretalx.com/bsides-cape-town-2023).
 
 ## CFP/CFW Formats
 
