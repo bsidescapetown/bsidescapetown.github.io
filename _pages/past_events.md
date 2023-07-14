@@ -20,7 +20,7 @@ author_profile: false
 <li>An IOT War Story - Jason Spencer</li>
 <li>Securing a cloud native open source microservice based core banking system - Ntando Mngomezulu</li>
 <li>Abusing AWS Permissions - Teach an old dog new tricks - Jason Kessel</li>
-<li>An Investigation into the Sate of Web Based Crypto-Mining - Robert Len</li>
+<li>An Investigation into the State of Web Based Crypto-Mining - Robert Len</li>
 <li>Permanently bricking smart contracts for fun and profit - Ashiq Amien</li>
 <li>Final Keynote: Deception via Perception - Jayson E Street</li>
 </ul>
