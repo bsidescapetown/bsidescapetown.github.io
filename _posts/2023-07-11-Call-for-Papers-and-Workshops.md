@@ -33,7 +33,7 @@ See our post about the theme for bsides called on: [Dystopia Now](https://bsides
 
 ## Process
 
-Submit your talk here : ![CFP/CFW website](https://pretalx.com/bsides-cape-town-2023).
+Submit your talk here : [CFP/CFW website](https://pretalx.com/bsides-cape-town-2023).
 
 ## CFP/CFW Formats
 
