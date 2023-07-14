@@ -59,7 +59,7 @@ We welcome talks across various categories, including but not limited to:
 - **Pentesting**: Hands-on demonstrations and discussions on penetration testing methodologies.
 - **CompSci**: Talks related to computer science, algorithms, and cutting-edge research.
 - **Security Research**: Presentations showcasing innovative research and discoveries in cybersecurity.
-- **Other Topics**: We are open to talks on any cybersecurity-related subject that you believe would be of interest to our attendees. Cool research, Artificial intelligence (AI), Machine Learning (ML), Deep Fakes, (Software Defined Radio) SDR, CloudSec, Hardware Hacking, C2 channels, Social Engineering, you name it, we want it!
+- **Other Topics**: We are open to talks on any cybersecurity-related subject that you believe would be of interest to our attendees. Cool research, Artificial Intelligence (AI), Machine Learning (ML), Deep Fakes, (Software Defined Radio) SDR, CloudSec, Hardware Hacking, C2 channels, Social Engineering, you name it, we want it!
 
 ## Past Talks
 
