@@ -281,6 +281,7 @@ event:
     start_time: "Dec 2, 2023 08:30:00"
     location: University of Cape Town Breakwater Lodge - V&A Waterfront
     theme: Dystopia Now
+# Commented out the below as it didn't seem to work as intended. Added ahref links rather in the index.html
 #    cfp: Open [Submit](https://pretalx.com/bsides-cape-town-2023/)
 #    cfw: Open [Submit](https://pretalx.com/bsides-cape-town-2023/) 
 
