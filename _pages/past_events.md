@@ -18,7 +18,7 @@ author_profile: false
 <li>Home Alone isn’t scary, it’s inspiration - Dev Dua, Tyron Kemp, Denver Abrey</li>
 <li>The Russia-Ukraine War: A retrospective - Jared Naude</li>
 <li>An IOT War Story - Jason Spencer</li>
-<li>Securing a cloud native open source microservice based core branking system - Ntando Mngomezulu</li>
+<li>Securing a cloud native open source microservice based core banking system - Ntando Mngomezulu</li>
 <li>Abusing AWS Permissions - Teach an old dog new tricks - Jason Kessel</li>
 <li>An Investigation into the Sate of Web Based Crypto-Mining - Robert Len</li>
 <li>Permanently bricking smart contracts for fun and profit - Ashiq Amien</li>
