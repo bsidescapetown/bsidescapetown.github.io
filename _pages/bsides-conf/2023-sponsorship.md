@@ -6,7 +6,7 @@ layout: single
 classes: wide
 author_profile: false
 ---
-<img src="https://bsidescapetown.co.za/assets/images/sponsorship/banners.png" width="500" height="500" controls><img src="https://bsidescapetown.co.za/assets/images/sponsorship/shirt.png" width="500" height="500" controls> 
+<img src="https://bsidescapetown.co.za/assets/images/sponsorship/banners.png" width="450" height="450" controls><img src="https://bsidescapetown.co.za/assets/images/sponsorship/shirt.png" width="450" height="450" controls> 
  
 
 <!--
