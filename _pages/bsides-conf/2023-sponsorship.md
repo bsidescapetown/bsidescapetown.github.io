@@ -13,7 +13,7 @@ author_profile: false
 <!--
 ![Banners](https://bsidescapetown.co.za/assets/images/sponsorship/banners.png)![Sponsors-shirt](https://bsidescapetown.co.za/assets/images/sponsorship/shirt.png) -->
 
-<img src="https://bsidescapetown.co.za/assets/images/sponsorship/sponosor_banner.png">
+<img src="https://bsidescapetown.co.za/assets/images/sponsorship/sponsor_banner.png">
 
 # Sponsorship 
 
