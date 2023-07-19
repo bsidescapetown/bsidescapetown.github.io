@@ -6,7 +6,11 @@ layout: single
 classes: wide
 author_profile: false
 ---
-![Banners](assets/images/sponsorship/banners.png)![Sponsors-shirt](assets/images/sponsorship/shirt.png))
+<img src="https://bsidescapetown.co.za/assets/images/sponsorship/banners.png" width="300" height="300" controls><img src="https://bsidescapetown.co.za/assets/images/sponsorship/shirt.png" width="300" height="300" controls> 
+ 
+
+<!--
+![Banners](https://bsidescapetown.co.za/assets/images/sponsorship/banners.png)![Sponsors-shirt](https://bsidescapetown.co.za/assets/images/sponsorship/shirt.png) -->
 # Sponsorship 
 
 BSides Cape Town is an annual information security conference bringing together cybersecurity professionals, hackers, and technology enthusiasts in a unique and vibrant environment. 
