@@ -49,4 +49,4 @@ As a community-focused conference, we are driven to provide opportunities for gr
 * Badge Sponsor (1)
 
 ## Contact us
-For more information and our official sponsorship pack please contact us at sponsors@bsidescapetown.co.za / organisers@bsidescapetown.cp./za
+For more information and our official sponsorship pack please contact us at sponsors@bsidescapetown.co.za / organisers@bsidescapetown.co.za
