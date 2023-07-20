@@ -42,3 +42,18 @@ crypticG00se:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/c-goosen"
+
+Pieter Blaauw:
+  name: "Pieter Blaauw"
+  bio: "Bsides Cape Town founder, hacker, Information Security Officer."
+  avatar: "/assets/images/authors/pieterblaauw.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://www.linkedin.com/in/pieter-blaauw-650942/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/lactichaze"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/watch?v=iDH-3H6mJTg"
