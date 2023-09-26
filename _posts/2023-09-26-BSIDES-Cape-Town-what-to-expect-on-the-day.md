@@ -14,7 +14,7 @@ tags:
  - Conference
  - BSIDES
  - Cape Town
- - 2023
+ - 2023"
  - Conference
  - Walk through
 ---
