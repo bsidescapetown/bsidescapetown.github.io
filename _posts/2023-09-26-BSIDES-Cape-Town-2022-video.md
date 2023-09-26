@@ -5,7 +5,7 @@ classes: wide
 layout: single
 author_profile: true
 header:
-  teaser: /assets/images/2023/posts/bsides_origin.png
+  teaser: /assets/images/2023/posts/bsides-video-2022.png
 
 excerpt_separator: "<!--more-->"
 categories:
@@ -14,7 +14,7 @@ tags:
  - Conference
  - BSIDES
  - Cape Town
- - 2022
+ - '2022'
  - Video
  - Youtube
 ---
