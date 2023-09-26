@@ -32,7 +32,7 @@ BSIDES Cape Town conference day is like.
 ## Registration & Swag
 Registration is filled with excitement and uncertainty. Tickets to be shown, amazing swag to be received and waiting for talks to begin.
 Grab a coffee, meet some other weird and wonderful hackers. Go see our amazing vendors in the vendor area. 
-![Swag GIF](/assets/images/2023/posts/conf_photos/swag.gif)
+![Swag GIF](/assets/images/2023/posts/conf_photos/swag.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Mingle
 
