@@ -27,7 +27,7 @@ We had some hiccups with our video which delayed release.
 
 Coming out of the pandemic we thought of experimenting with youtube livestreams for BSIDES Cape Town. 
 We thought our online community was big enough to give it a go. The analytics showed us this theory wasn't true, at least 
-not yet. We and our community loves in person events more than another online event. 
+not yet. Both our community and ourselves love an in-person event, more than another online event. 
 
 ## What went wrong?
 With our new venue we were offered a vendor they used for online events. We trusted the venue's opinion as they organize 

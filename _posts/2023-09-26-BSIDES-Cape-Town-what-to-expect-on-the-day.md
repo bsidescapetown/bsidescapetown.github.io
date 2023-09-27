@@ -35,6 +35,7 @@ Grab a coffee, meet some other weird and wonderful hackers. Go see our amazing v
 ![Swag GIF](/assets/images/2023/posts/conf_photos/swag.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Mingle
+![Mingle GIF](/assets/images/2023/posts/conf_photos/mingle.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Talks
 
