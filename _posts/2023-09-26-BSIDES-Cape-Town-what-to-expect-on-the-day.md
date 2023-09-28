@@ -89,6 +89,17 @@ If you want to get a feel of our conference here is a small sample of our talks 
 
 ![Talks GIF](/assets/images/2023/posts/conf_photos/talks.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
+## Food
+I would be remiss to remind everyone that hackers consume food to turn into hacks! We try and start the day with cofee and a light breakfast. Then paart of the way
+in during lunch we provide food as best we can for all diets and people. Spend the time refueling/recharging over lunch and mingle with your fellow hacker. 
+
+![Food](/assets/images/2023/posts/conf_photos/food.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+
+Depending on our venue for the year, you might be able to grab a quick bite and disappear into a neighbouring market, water front or even an aquarium. I do 
+warn you to not wonder too far or lose track of time, you might miss out on an amazing talk!
+
+
+
 ## Challenges
 As if there isn't enough going on at our yearly conference, we usually open up a call for challenges. These challenges can include
 Capture the Flag challenges where people hack to find a secret to progress, or OSINT which is an open source intelligence challenge
