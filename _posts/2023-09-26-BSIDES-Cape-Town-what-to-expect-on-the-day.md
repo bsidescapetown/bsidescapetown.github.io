@@ -29,6 +29,14 @@ BSIDES has been an amazing yearly conference showcasing the research of local an
 I (CrypticGoose/Christo) have been fortunate to be on the organizing committee for nearly 7 years and before that a volunteer, so I will take you on a journey with photos of what a
 BSIDES Cape Town conference day is like.
 
+## About BSIDES Cape Town
+BSides Cape Town is an annual information security conference bringing together cybersecurity
+professionals, hackers, and technology enthusiasts in a unique and vibrant environment.
+From technical deep dives to policy discussions, BSides Cape Town embraces a wide range of
+subjects in the cybersecurity landscape. The focus is on learning, innovating and having fun.
+BSides is growing: the first 2011 conference was under 20 people. Last year's event was sold out at
+500 people. This year we expect more than 600 hackers, tech leaders and enthusiasts to attend.
+
 ## Registration & Swag
 Registration is filled with excitement and uncertainty. Tickets to be shown, amazing swag to be received and waiting for talks to begin.
 Grab a coffee, meet some other weird and wonderful hackers. Go see our amazing vendors in the vendor area. 
@@ -71,13 +79,30 @@ If you want to get a feel of our conference here is a small sample of our talks 
 * [(In)Outsider Trading – Hacking stocks using public information and (influence)](https://www.youtube.com/watch?v=sfHeguTEkuE)
 * [Charl van der Walt - Love triangles in cyberspace. A tale about trust in 5 chapters.](https://www.youtube.com/watch?v=eOUtH7sqk8Q)
 
-![Mingle GIF](/assets/images/2023/posts/conf_photos/talks.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+![Talks GIF](/assets/images/2023/posts/conf_photos/talks.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Challenges
+As if there isn't enough going on at our yearly conference, we usually open up a call for challenges. These challenges can include
+Capture the Flag challenges where people hack to find a secret to progress, or OSINT which is an open source intelligence challenge
+using your google dorking skills. Other challenges could be password cracking or even something simple like find a sticker or image hiding in the venue. 
+These challenges are communicated ahead of time or on the day and all are welcome to participate.
+
+![Challenges GIF](/assets/images/2023/posts/conf_photos/challenges.gif){:style="display:block; margin-left:auto; margin-right:auto"}
+
+### BSIDES Electronic badges (subject to availability)
+Some years, if communicated ahead of time, we have electronic badges built by volunteers and organisers up for sale. These badges are sold 
+as a separate ticket for a nominal fee, with hacking challenges attached to it. These badges can often communicate with each other, a server and challenges allowing
+for a unique interactive experience on the day.
+
+Our BSIDES Cape Town electronic challenge badges usually follow with chaotic nights and days of soldering, debugging and amazing moments building things for our community.
+The BSIDES Cape Town electronic badges form part of our maker community that combines the physical and cyber.
+
+![Badge 1](/assets/images/2023/posts/conf_photos/badges_1.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
+![Badge 2](/assets/images/2023/posts/conf_photos/badges_2.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Ending keynote
 
-## Lightning talks
+## Lightning talks or closing
 
 ## After party
 
