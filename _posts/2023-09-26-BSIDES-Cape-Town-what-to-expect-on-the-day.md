@@ -62,11 +62,16 @@ We even have a [Code of Conduct](https://bsidescapetown.co.za/codeofconduct/) fo
 ![Mingle GIF](/assets/images/2023/posts/conf_photos/mingle.gif){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Talks
-Amazing conference talks! Yes other than hacking challenges and seeing your friends, our main focus is to provide you with high quality talks by local and international speakers.
+Amazing conference talks! Yes other than hacking challenges and seeing your friends, our main focus is to provide you with high quality talks by local
+and international speakers.
 
 We spend a lot of time requesting talks from the community and doing a blind peer review. As part of our culture and ethos we don't do paid for talks or sponsors get automatic slots for speaking.
 We allow our platinum sponsor a short opening talk, but all other talks need to go through the CFP process, with external and internal reviewers, which keeps the quality 
 of our talks high.
+
+We open our amazing talks with a Keynote talk with all our attendees all together. In 2022 we were fortunate to have Haroon Meer, a veteran speaker at Bsides, 
+discuss [Made in SA - For the world ](https://www.youtube.com/watch?v=qBgTe3UrcvA), an inspiring talk for South African hackers on reaching a global audience and building 
+and defending on a world stage. We hope many of our attendees have been building and hacking away inspired through Haroon's perspective building Thinkst.
 
 Our amazing speakers present their research, which we at a later stage upload to our youtube channel: [Bsides Cape Town](https://www.youtube.com/@BSidesCapeTown)
 
@@ -102,9 +107,26 @@ The BSIDES Cape Town electronic badges form part of our maker community that com
 Below is a photo of organisers debugging and getting badges through a quality assurance process:
 ![Badge 2](/assets/images/2023/posts/conf_photos/badges_2.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 
-## Ending keynote
 
-## Lightning talks and closing
+## Ending keynote and closing
+
+As with everything, programs begin to come close to an end. To get the most of our last moments at BSIDES Cape Town, we 
+finally wow our attendees with lightning talks ,if we have enough speakers, and finally our closing keynote. 
+
+In 2022 we were able to organise with Jayson E Street to give the 
+closing [keynote](https://www.youtube.com/watch?v=WOln0vYhXnQ). Not only an amazing speaker but an experienced hacker and 
+a prolific purveyor of akward hugs! Jayson's talk on "DECEPTION VIA PERCEPTION" was a provocative and incitement talk on 
+his experience and real world videos of breaking into banks and the mentality needed to break in and defend our world. 
+Not only do we get fantastic insights into red teaming and deception, but also the behaviours we need to teach our colleagues and 
+loved ones to secure our worlds and lives.
+
+![Jayson](/assets/images/2023/posts/conf_photos/jayson_1.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
+
+Right after our Keynote we close our conference with prize handouts from our challenges and thank all our sponsors again. 
+At this point we have final speeches and discuss the upcoming after party. Closing remarks is always a proud and sad moment as 
+an organiser, as we know all the blood sweat and tears concluded with an amazing day. We love doing a years worth of effort, 
+a day of running around and spending time with all of you that we might get emotional. We also might be tired,but it is a labour of love.
+Organisers and volunteers are often encouraged to become a part of the movement because of our experiences at BSIDES.
 
 
 ![Badge 2](/assets/images/2023/posts/conf_photos/charlie_2.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
