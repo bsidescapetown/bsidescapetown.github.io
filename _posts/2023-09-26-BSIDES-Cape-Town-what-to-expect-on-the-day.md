@@ -73,6 +73,9 @@ We open our amazing talks with a Keynote talk with all our attendees all togethe
 discuss [Made in SA - For the world ](https://www.youtube.com/watch?v=qBgTe3UrcvA), an inspiring talk for South African hackers on reaching a global audience and building 
 and defending on a world stage. We hope many of our attendees have been building and hacking away inspired through Haroon's perspective building Thinkst.
 
+![Haroon Keynote](/assets/images/2023/posts/conf_photos/haroon_1.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
+
+
 Our amazing speakers present their research, which we at a later stage upload to our youtube channel: [Bsides Cape Town](https://www.youtube.com/@BSidesCapeTown)
 
 If you want to get a feel of our conference here is a small sample of our talks accross the years:
