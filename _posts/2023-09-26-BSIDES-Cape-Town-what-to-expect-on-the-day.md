@@ -92,20 +92,43 @@ These challenges are communicated ahead of time or on the day and all are welcom
 ### BSIDES Electronic badges (subject to availability)
 Some years, if communicated ahead of time, we have electronic badges built by volunteers and organisers up for sale. These badges are sold 
 as a separate ticket for a nominal fee, with hacking challenges attached to it. These badges can often communicate with each other, a server and challenges allowing
-for a unique interactive experience on the day.
+
+
+![Badge 1](/assets/images/2023/posts/conf_photos/night_before.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Our BSIDES Cape Town electronic challenge badges usually follow with chaotic nights and days of soldering, debugging and amazing moments building things for our community.
 The BSIDES Cape Town electronic badges form part of our maker community that combines the physical and cyber.
 
-![Badge 1](/assets/images/2023/posts/conf_photos/badges_1.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
+Below is a photo of organisers debugging and getting badges through a quality assurance process:
 ![Badge 2](/assets/images/2023/posts/conf_photos/badges_2.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## Ending keynote
 
-## Lightning talks or closing
+## Lightning talks and closing
+
+
+![Badge 2](/assets/images/2023/posts/conf_photos/charlie_2.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ## After party
+As is tradition for BSIDES Cape Town (more than 10 years!) we usually end off a day with an after party with food and drinks
+to all who stay behind.
+
+At this point we all mingle together, talk about what was amazing and those talks you have in mind for the next year. 
+All attendees are always welcome and gives us organisers and volunteers a breather and a moment to interact with our attendees
+knowing the day is successfully concluded.
 
 ## The next day
 We all know the post BSIDES feeling. Once you get over thousands of steps taken and lack of sleep, all of us usually start
 planning or researching that talk you should have given this year the day after. BSIDES welcomes you, submit that talk! 
+
+## The people behind it all
+BSIDES Cape Town is only possible because of amazing organisers, speakers and volunteers.
+
+We would like to thank all volunteers and the companies that sponsor our event. Without you we can't keep and grow  this community
+that secures South Africa's present and future.
+
+We thank you all!
+![Badge 2](/assets/images/2023/posts/conf_photos/all_volts.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
+
+![Badge 2](/assets/images/2023/posts/conf_photos/volts_3.jpeg){:style="display:block; margin-left:auto; margin-right:auto"}
+
