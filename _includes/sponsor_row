@@ -23,7 +23,7 @@
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img-platinum">
             <a href="{{ f.url | relative_url }}">
-              <img style="max-height:360px;max-width:720px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}"  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              <img style="max-height:360px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}"  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
