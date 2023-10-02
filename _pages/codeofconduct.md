@@ -30,7 +30,8 @@ author_profile: false
 <h2>Reporting</h2>
 <p>If someone threatens or harrases you or anyone else, please report it as soon as possible. Conference staff can be identified by their bright red t-shirts with the word STAFF on them. Harassment and other code of conduct violations reduce the value of our event for everyone. We want everyone to be happy at our event.</p>
 <h3>Anonymous Report</h3>
-<p>You can make an anonymous report here: <a href="https://bsidescapetown.wufoo.com/forms/report/">https://bsidescapetown.wufoo.com/forms/report/</a></p>
+<p>You can make an anonymous report here: </p>
+<div id="wufoo-z1uykeow1f54a2n"> Fill out my <a href="https://crypticgoose.wufoo.com/forms/z1uykeow1f54a2n">online form</a>. </div> <script type="text/javascript"> var z1uykeow1f54a2n; (function(d, t) { var s = d.createElement(t), options = { 'userName':'crypticgoose', 'formHash':'z1uykeow1f54a2n', 'autoResize':true, 'height':'598', 'async':true, 'host':'wufoo.com', 'header':'show', 'ssl':true }; s.src = ('https:' == d.location.protocol ?'https://':'http://') + 'secure.wufoo.com/scripts/embed/form.js'; s.onload = s.onreadystatechange = function() { var rs = this.readyState; if (rs) if (rs != 'complete') if (rs != 'loaded') return; try { z1uykeow1f54a2n = new WufooForm(); z1uykeow1f54a2n.initialize(options); z1uykeow1f54a2n.display(); } catch (e) { } }; var scr = d.getElementsByTagName(t)[0], par = scr.parentNode; par.insertBefore(s, scr); })(document, 'script'); </script>
 <p>We can&#8217;t follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.</p>
 <h3>Personal Report</h3>
 <p>You can make a personal report by:</p>
