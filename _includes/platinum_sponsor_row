@@ -1,0 +1,59 @@
+{% if include.id %}
+  {% assign platinum_sponsor_row = page[include.id] %}
+{% else %}
+{% assign platinum_sponsor_row = page.platinum_sponsor_row %}
+{% endif %}
+
+<!--<center class="sponsor_top_border"><b><i><h2 class="mt2">Platinum Sponsor</h3></i></b></center>-->
+<!-- <center>To sponsor please see the following: <a href="/2023/sponsorship">Click Here</a></center> -->
+
+<div class="feature__wrapper my">
+
+{% if page.platinum_sponsor_row %}
+    <div class="sponsor_tier_wrapper my sponsor-row-align">
+
+  {% for f in platinum_sponsor_row %}
+    <div class="sponsor-row-col-md-1 sponsor-row-col-md-1 feature__item_platinum{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item archive-item-custom-style">
+        {% if f.image_path %}
+        <center><b><i><h3 class="sponsor-row-heading">Brought to you by</h3></i></b></center>
+
+          <div class="archive__item-teaser sp-img-platinum">
+
+            <a href="{{ f.url | relative_url }}">
+              <img style="max-height:250px;max-width:500px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}" class="my" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
+            Platinum Sponsor
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+        {% comment %}
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          {% if f.level %}
+            <!-- <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3> -->
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+        {% endcomment %}
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
+
+</div>

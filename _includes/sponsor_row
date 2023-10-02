@@ -8,22 +8,22 @@
   {% assign ctf_sponsor_row = page.ctf_sponsor_row %}
 {% endif %}
 
-<center class="sponsor_top_border"><b><i><h2 class="mt2">Sponsors</h3></i></b></center>
-<center>To sponsor please see the following: <a href="/2023/sponsorship">Click Here</a></center>
+<!--<center class="sponsor_top_border">-->
+<center><b><i><h2 class="mt2">Sponsors</h3></i></b></center>
 
-<div class="feature__wrapper my">
+<div class="feature__wrapper">
 
 {% if page.platinum_sponsor_row %}
     <center><b><i><h3 class="sponsor-row-heading">Platinum Sponsors</h3></i></b></center>
-    <div class="sponsor_tier_wrapper my sponsor-row-align">
+    <div class="sponsor_tier_wrapper sponsor-row-align">
 
   {% for f in platinum_sponsor_row %}
-    <div class="sponsor-row-col-md-1 sponsor-row-col-md-1 feature__item_platinum{% if include.type %}--{{ include.type }}{% endif %}">
+    <div style="max-height:400px;max-width:800px;height:120%;width:120%;" class="sponsor-row-col-md-1 sponsor-row-col-md-1 feature__item_platinum{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img-platinum">
             <a href="{{ f.url | relative_url }}">
-              <img src="{{ f.image_path | relative_url }}" class="my" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              <img style="max-height:360px;max-width:720px;height:120%;width:120%;" src="{{ f.image_path | relative_url }}"  alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -67,7 +67,7 @@
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
             <a href="{{ f.url | relative_url }}">
-              <img src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              <img style="max-height:180px;max-width:360px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -111,7 +111,7 @@
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
             <a href="{{ f.url | relative_url }}">
-              <img src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              <img style="max-height:90px;max-width:290px;height:120%;widght:120%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -155,7 +155,7 @@
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
             <a href="{{ f.url | relative_url }}">
-              <img src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              <img style="max-height:70px;max-width:200px;height:100%;widght:100%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -231,4 +231,6 @@
 
 </div>
 {% endif %}
+<center>To sponsor please see the following: <a href="/2023/sponsorship">Click Here</a></center>
+
 </div>
