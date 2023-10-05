@@ -1,13 +1,81 @@
-<div class="column">
-    <div class="card">
-        <!-- <img src="/assets/images/organisers/goose_profile.jpg" width="196" height="213"> -->
-      <img src="{{ imgsrc }}" alt="{{ include.name }}" style="width:100%">
-      <div class="container">
-        <h3>{{ include.name }}</h3>
-        <p class="title">{{ include.nickname }}</p>
-        <p>{{ include.biography }}</p>
-        <p>{{ include.email }}</p>
-        <!-- <p><button class="button">Contact</button></p> -->
-      </div>
-    </div>
-  </div>
+<head>
+    <style>
+body{
+    padding: 10px;
+    font-family: Arial;
+
+}
+.top{
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+}
+.wrap{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 30px;
+    max-width: 1000px;
+    margin: auto;
+    margin-top: 50px;
+
+
+}
+.box{
+<!--    background: gray;-->
+    border-radius: 10px;
+    border-style: groove;
+    border-color: white;
+}
+.team-img {
+    width:100%;
+    height: 400px;
+}
+.social{
+    margin-top: -270px;
+    background: #2b3da6;
+    border-radius: 0 20px 20px 0 ;
+    position: absolute;
+
+
+}
+a{
+    display: flex;
+    margin: 5px;
+
+
+    position: relative;
+    text-decoration: none;
+    font-size:15px;
+    color:#fff;
+    padding: 5px;
+}
+.fa{
+    line-height: 30px;
+    width:30px;
+    height: 30px;
+    position: relative;
+    text-align: center;
+    color:white;
+
+}
+<!--.text{-->
+<!--    text-align: center;-->
+<!--    color:#fff;-->
+<!--}-->
+.text-padding {
+<!--    font-size:20px;-->
+    padding:2% !important;
+}
+    </style>
+</head>
+
+  <div class="box">
+            <img class="team-img" src ="{{ include.imgsrc }}">
+            <div class="text">
+            <h1 style="padding:2%;">{{ include.name }}</h1>
+                <h3 style="padding:2%;"> {{ include.title }}</h3>
+                <h3 style="padding:2%;"> {{ include.email }}</h3>
+                <h3 style="padding:2%;"> {{ include.nickname }}</h3>
+                <p style="padding:2%;"> {{ include.biography }}</p>
+            </div>
+        </div>
