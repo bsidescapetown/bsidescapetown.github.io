@@ -56,6 +56,15 @@ email="jared@bsidescapetown.co.za"
 {% include team_card.html name="Mike Davis" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
 {% include team_card.html name="Nuno Almeida" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
 {% include team_card.html name="Geoffrey Chisnall" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
-{% include team_card.html name="Roberto Arico" imgsrc="/assets/images/organisers/roberto.jpg" %}
+
+
+{% include team_card.html 
+name="Roberto Arico" 
+title="Organiser"
+imgsrc="/assets/images/organisers/roberto.jpg" 
+biography="15+ year veteran in Cybersecurity and it still feels like the first day of school. Interested in all things Red and Blue, as well as listening to other people answer the most basic of Hacking questions: 'What If I.....?'"
+nickname="pawnstar"
+email="roberto@bsidescapetown.co.za"
+%}
 
 </div>
