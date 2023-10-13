@@ -25,7 +25,6 @@ author_profile: true
 </head>
 
 ## BSides Cape Town Organisers
-## Organisers 1
 <div class="wrap">
 {% include team_card.html name="Christo Goosen" imgsrc="../assets/images/organisers/goose_profile.jpg"
 biography="BSIDES organiser since 2017 and volunteer 2 years before. Lead DevSecops, CTO, DevOps and pentesting background. Love security and creating community. Call me Goose, everyone does."
