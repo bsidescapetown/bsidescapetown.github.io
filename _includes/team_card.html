@@ -59,6 +59,15 @@ a{
     color:white;
 
 }
+.team-staff-title{
+    color: #FF8200;
+    padding: 2%;
+}
+
+.team-staff-nick{
+    color: red;
+    padding: 2%;
+}
 <!--.text{-->
 <!--    text-align: center;-->
 <!--    color:#fff;-->
@@ -75,9 +84,9 @@ a{
             <div class="text">
             <h1 style="padding:2%;">{{ include.name }}</h1>
                 
-                <h3 style="padding:2%;"> {{ include.title }}</h3>
+                <h3 class="team-staff-title"> {{ include.title }}</h3>
 
-                <h3 style="padding:2%;"> {{ include.nickname }}</h3>
+                <h3 class="team-staff-nick"> {{ include.nickname }}</h3>
 
                 <h3 style="padding:2%;"> {{ include.email }}</h3>                
 
