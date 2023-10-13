@@ -32,7 +32,7 @@ nickname="crypticGoose"
 title="Director & Organiser"
 email="christo@bsidescapetown.co.za"
 %}
-{% include team_card.html name="Charles Wroth" imgsrc="/assets/images/authors/High_voltage_warning.jpg" 
+{% include team_card.html name="Charles Wroth" imgsrc="/assets/images/organisers/charles_wroth.jpg" 
 biography="Specialist Cybersec Recruiter with Redherd.io. Community supporter and have been with BSides Cape Town since 2017, Chairperson 2023. Volt BSides ORL, Founder/Root Hack South. Career Coach, bad thought leader, father, husband, veteran." 
 nickname="AngusRed"
 title="Director & chair"
@@ -56,7 +56,13 @@ email="jared@bsidescapetown.co.za"
 {% include team_card.html name="Mike Davis" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
 {% include team_card.html name="Nuno Almeida" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
 {% include team_card.html name="Geoffrey Chisnall" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
-{% include team_card.html name="Roberto Arico" imgsrc="/assets/images/organisers/roberto.jpg" %}
+{% include team_card.html 
+name="Roberto Arico" 
+title="Organiser"
+imgsrc="/assets/images/organisers/roberto.jpg" 
+biography="15 year veteran in Cybersecurity and it still feels like the first day of school. Interested in all things Red and Blue, as well as listening to other people answer the most basic of Hacking questions."
+email="roberto@bsidescapetown.co.za"
+%}
 
 </div>
 
