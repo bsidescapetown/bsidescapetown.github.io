@@ -62,11 +62,19 @@ a{
 .team-staff-title{
     color: #FF8200;
     padding: 2%;
+    margin-top: 10px;
 }
 
 .team-staff-nick{
     color: red;
     padding: 2%;
+    margin-top: 10px;
+}
+
+.team-staff-email{
+    color: #8A8D8F;
+    padding: 2%;
+    margin-top: 10px;
 }
 <!--.text{-->
 <!--    text-align: center;-->
@@ -88,7 +96,7 @@ a{
 
                 <h3 class="team-staff-nick"> {{ include.nickname }}</h3>
 
-                <h3 style="padding:2%;"> {{ include.email }}</h3>                
+                <h3 class="team-staff-email"> {{ include.email }}</h3>                
 
                 <p style="padding:2%;"> {{ include.biography }}</p>
             </div>
