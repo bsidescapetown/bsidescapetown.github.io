@@ -24,7 +24,7 @@ author_profile: true
 </style>
 </head>
 
-## Organisers 1
+## BSides Cape Town Organisers
 <div class="wrap">
 {% include team_card.html name="Christo Goosen" imgsrc="../assets/images/organisers/goose_profile.jpg"
 biography="BSIDES organiser since 2017 and volunteer 2 years before. Lead DevSecops, CTO, DevOps and pentesting background. Love security and creating community. Call me Goose, everyone does."
@@ -62,7 +62,7 @@ email="jared@bsidescapetown.co.za"
 name="Roberto Arico" 
 title="Organiser"
 imgsrc="/assets/images/organisers/roberto.jpg" 
-biography="15+ year veteran in Cybersecurity and it still feels like the first day of school. Interested in all things Red and Blue, as well as listening to other people answer the most basic of Hacking questions: 'What If I.....?'"
+biography="15+ year veteran in Cybersecurity and it still feels like the first day of school. Interested in all things Red and Blue, as well as listening to other people answer the most basic of Hacking questions: What If I.....?"
 nickname="pawnstar"
 email="roberto@bsidescapetown.co.za"
 %}
