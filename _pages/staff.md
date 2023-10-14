@@ -51,7 +51,7 @@ biography="Junior security analyst, fresh out of university this year. Previousl
 name="Jared Naude" 
 title="Organiser"
 imgsrc="/assets/images/organisers/jared_naude.jpg" 
-biography="Jared is the Head of Security at Synthesis, where he specializes in enterprise cloud architecture. Jared is passionate and deeply committed to guiding large organizations through the complexities of architecting, securing and operationalizing enterprise cloud environments. Beyond Jared’s professional responsibilities, Jared is an enthusiastic advocate for community building, serving as the organizer of several local security events, including 0xcon, BSides Cape Town, and BSides Joburg. Jared’s research focuses on cybersecurity topics that intersect with national security and foreign policy issues such as encryption, privacy, surveillance, disinformation, and nation-state activity."
+biography="Head of Security, specializing in enterprise cloud architecture. Dedicated to helping large organizations with navigating the complexities of securing cloud environments. Community building advocate and serve as the organizer of several local security events (0xcon, BSides Cape Town, BSides Joburg). My research focuses on cybersecurity topics that intersect with national security and foreign policy issues such as encryption, privacy, surveillance, disinformation, and nation-state activity."
 nickname="jared"
 email="jared@bsidescapetown.co.za"
 %}
