@@ -39,7 +39,8 @@ title="Director & Chair"
 email="charles@bsidescapetown.co.za"
 %}
 {% include team_card.html 
-name="Isak van der Walt" 
+name="Isak van der Walt"
+email="isak@bsidescapetown.co.za"
 nickname="megladon"
 title="Director & Organiser"
 imgsrc="/assets/images/organisers/isak.jpg"
@@ -54,9 +55,6 @@ biography="Jared is the Head of Security at Synthesis, where he specializes in e
 nickname="jared"
 email="jared@bsidescapetown.co.za"
 %}
-{% include team_card.html name="Mike Davis" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
-{% include team_card.html name="Nuno Almeida" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
-{% include team_card.html name="Geoffrey Chisnall" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
 {% include team_card.html 
 name="Roberto Arico" 
 title="Organiser"
@@ -65,6 +63,17 @@ imgsrc="/assets/images/organisers/roberto.jpg"
 biography="15 year veteran in Cybersecurity and it still feels like the first day of school. Interested in all things Red and Blue, as well as listening to other people answer the most basic of Hacking questions."
 email="roberto@bsidescapetown.co.za"
 %}
+{% include team_card.html 
+name="Geoffrey Chisnall" 
+title="Organiser"
+nickname="mooncake"
+imgsrc="/assets/images/organisers/geoffrey.jpg" 
+biography="Systems Administrator turned Lead Security Analyst. Hack South staff member. Ultra distance runner. Cat lover."
+email="geoffrey@bsidescapetown.co.za"
+%}
+{% include team_card.html name="Mike Davis" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
+{% include team_card.html name="Nuno Almeida" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
+
 
 </div>
 
