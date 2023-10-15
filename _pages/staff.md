@@ -71,9 +71,15 @@ imgsrc="/assets/images/organisers/geoffrey.jpg"
 biography="Systems Administrator turned Lead Security Analyst. Hack South staff member. Ultra distance runner. Cat lover."
 email="geoffrey@bsidescapetown.co.za"
 %}
+{% include team_card.html 
+name="Nuno Almeida" 
+title="Organiser"
+nickname="major.sam"
+imgsrc="/assets/images/organisers/nuno.jpg" 
+biography="Doing cyber and physical security for over 20 years and across 3 continents. With BSides Cape Town since 2019 as a volunteer and organizer since 2022. Coffee and bourbon afficionado, can be found at airport lounges."
+email="nuno@bsidescapetown.co.za"
+%}
 {% include team_card.html name="Mike Davis" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
-{% include team_card.html name="Nuno Almeida" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
-
 
 </div>
 
