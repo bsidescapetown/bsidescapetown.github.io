@@ -4,6 +4,7 @@
   {% assign platinum_sponsor_row = page.platinum_sponsor_row %}
   {% assign gold_sponsor_row = page.gold_sponsor_row %}
   {% assign silver_sponsor_row = page.silver_sponsor_row %}
+  {% assign silver_sponsor_row_two = page.silver_sponsor_row_two %}
   {% assign bronze_sponsor_row = page.bronze_sponsor_row %}
   {% assign ctf_sponsor_row = page.ctf_sponsor_row %}
 {% endif %}
@@ -145,6 +146,47 @@
 </div>
 {% endif %}
 
+{% if page.silver_sponsor_row_two %}
+<div class="sponsor-row-align">
+  {% for f in silver_sponsor_row_two %}
+    <div class="sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item archive-item-custom-style">
+        {% if f.image_path %}
+          <div class="archive__item-teaser sp-img">
+            <a href="{{ f.url | relative_url }}">
+              <img style="max-height:90px;max-width:290px;height:120%;widght:120%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+        {% comment %}
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          {% if f.level %}
+            <!-- <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3> -->
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+        {% endcomment %}
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
 
 {% if page.bronze_sponsor_row %}
    <center><b><i><h3 class="sponsor-row-heading">Bronze Sponsors</h3></i></b></center>
