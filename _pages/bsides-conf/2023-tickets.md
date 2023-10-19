@@ -8,6 +8,6 @@ author_profile: false
 ---
 
 # Tickets
-Ticket sales will start end of July 2023.
+Tickets can be bought on [Quicket](https://www.quicket.co.za/events/216929-bsides-cape-town-2nd-december-2023#/)
 
 Keep an eye on our social media pages and the website.

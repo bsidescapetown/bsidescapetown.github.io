@@ -75,7 +75,7 @@ email="geoffrey@bsidescapetown.co.za"
 name="Mayan Stegmann" 
 title="Organiser"
 nickname="K3ySton3"
-imgsrc="/assets/images/organisers/mayan_stegmann.jpg" 
+imgsrc="/assets/images/organisers/mayan_stegmann_v2.jpg" 
 biography="Hey there, I'm Mayan. I'm just your friendly neighbourhood cyber spook, driven by a passion for knowledge and a curiosity for how our interconnected world works. I like to think that I'm the cat that curiosity can't kill."
 email="mayan@bsidescapetown.co.za"
 %}

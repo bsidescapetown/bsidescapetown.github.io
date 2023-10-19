@@ -8,9 +8,9 @@ author_profile: false
 ---
 
 ## Location:
-We loved our venue and had positive feedback on 2022, but parking and space can be an issue. This year we are changing things up again.
+We loved our venue and had positive feedback on 2022, but parking and space can be an issue. This year we are changing things up again with a larger venue.
 
-University of Cape Town Breakwater Lodge - V&A Waterfront:  [https://www.gsb.uct.ac.za/about-the-gsb/campus-locations](https://www.gsb.uct.ac.za/about-the-gsb/campus-locations)
+This year's event will be held at the  University of Cape Town Breakwater Lodge - V&A Waterfront:  [https://www.gsb.uct.ac.za/about-the-gsb/campus-locations](https://www.gsb.uct.ac.za/about-the-gsb/campus-locations)
 
 The venue is one street up from most of the tourist milling of the V&A waterfront, which gives us more privacy and parking. Parking will be ample and you can mill around the V&A Waterfront if you feel like moving around. 
 
