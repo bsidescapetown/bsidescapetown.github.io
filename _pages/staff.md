@@ -72,6 +72,14 @@ biography="Systems Administrator turned Lead Security Analyst. Hack South staff 
 email="geoffrey@bsidescapetown.co.za"
 %}
 {% include team_card.html 
+name="Mayan Stegmann" 
+title="Organiser"
+nickname="K3ySton3"
+imgsrc="/assets/images/organisers/mayan_stegmann.jpg" 
+biography="Hey there, I'm Mayan. I'm just your friendly neighbourhood cyber spook, driven by a passion for knowledge and a curiosity for how our interconnected world works. I like to think that I'm the cat that curiosity can't kill."
+email="mayan@bsidescapetown.co.za"
+%}
+{% include team_card.html 
 name="Nuno Almeida" 
 title="Organiser"
 nickname="major.sam"
