@@ -15,7 +15,4 @@ As a volunteer you could also be eligible for rite of passage.
 We also pick our future organizers from volunteers.
 We would love to have you so please make contact!  
 
-If you would like to volunteer, please fill in the [Volunteer Signup](https://forms.gle/YBMw98q5c9Aak3MZ7 ) form and we will be in contact.  
-
-For further questions, please email us on
-[volunteer@bsidescapetown.co.za](mailto:volunteer@bsidescapetown.co.za)  
+Our call for volunteers has been closed for 2023 but keep an eye for next year!
