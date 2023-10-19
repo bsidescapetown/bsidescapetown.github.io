@@ -81,4 +81,4 @@ Aside from a free trip to Vegas, it's a genuinely meaningful initiative and, for
 
 # Conclusion
 The Rite of Passage is a chance to rub shoulders with industry pioneers, engage in hands-on workshops, and attend riveting talks on the
- latest threats and innovations - it's an unparalleled experience.
+ latest threats and innovations - it's an unparalleled experience. If you would like to support the Rite of Passage, you can do so by donating on [Quicket](https://www.quicket.co.za/events/216929-bsides-cape-town-2nd-december-2023#/)
