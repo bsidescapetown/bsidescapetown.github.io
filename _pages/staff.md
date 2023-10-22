@@ -87,7 +87,20 @@ imgsrc="/assets/images/organisers/nuno.jpg"
 biography="Doing cyber and physical security for over 20 years and across 3 continents. With BSides Cape Town since 2019 as a volunteer and organizer since 2022. Coffee and bourbon afficionado, can be found at airport lounges."
 email="nuno@bsidescapetown.co.za"
 %}
-{% include team_card.html name="Mike Davis" imgsrc="/assets/images/authors/High_voltage_warning.jpg" %}
+{% include team_card.html 
+name="Michele Wroth" 
+title="Organiser"
+nickname="Sheller"
+imgsrc="/assets/images/organisers/michele.jpg" 
+biography="Head of Operations for Redherd.io, wife and side kick to AngusRed aka Charles Wroth, 2019 BSides volt, 2022 and 2023 BSides organiser. Good at planning stuff and things."
+email="michele@bsidescapetown.co.za"
+%}
+{% include team_card.html 
+name="Mike Davis" 
+title="Organiser"
+nickname="elasticninja"
+imgsrc="/assets/images/organisers/mike.jpg" 
+%}
 
 </div>
 
