@@ -116,7 +116,7 @@
 <!-- Start of Educational and Workshop Sponsor Row -->
 
 {% if page.education_workshop_sponsor_row %}
-   <center><b><i><h3 class="sponsor-row-heading">Educational and Workshop Sponsors</h3></i></b></center>
+   <center><b><i><h3 class="sponsor-row-heading">Educational and Workshop Sponsors</h3></i></b>
 
 <div class="sponsor_tier_wrapper sponsor-row-align">
   {% for f in education_workshop_sponsor_row %}
@@ -125,7 +125,7 @@
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img">
             <a href="{{ f.url | relative_url }}">
-              <img style="max-height:150px;max-width:300px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" class="center" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+              <img style="max-height:150px;max-width:300px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             </a>
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -158,6 +158,7 @@
 
 </div>
 {% endif %}
+</center>
 
 <!-- End of Educational and Workshop Sponsor Row -->
 
