@@ -3,8 +3,11 @@
 {% else %}
   {% assign platinum_sponsor_row = page.platinum_sponsor_row %}
   {% assign gold_sponsor_row = page.gold_sponsor_row %}
+  {% assign education_workshop_sponsor_row = page.education_workshop_sponsor_row %}
+  {% assign audio_visuals_sponsor_row = page.audio_visuals_sponsor_row %}
   {% assign silver_sponsor_row = page.silver_sponsor_row %}
   {% assign silver_sponsor_row_two = page.silver_sponsor_row_two %}
+  {% assign community_sponsor_row = page.community_sponsor_row %}
   {% assign bronze_sponsor_row = page.bronze_sponsor_row %}
   {% assign ctf_sponsor_row = page.ctf_sponsor_row %}
 {% endif %}
@@ -14,12 +17,14 @@
 
 <div class="feature__wrapper">
 
+<!-- Start of Platinum Sponsor Row -->
+
 {% if page.platinum_sponsor_row %}
     <center><b><i><h3 class="sponsor-row-heading">Platinum Sponsors</h3></i></b></center>
     <div class="sponsor_tier_wrapper sponsor-row-align">
 
   {% for f in platinum_sponsor_row %}
-    <div style="max-height:400px;max-width:800px;height:100%;width:100%;paddding:8%;" class="sponsor-row-col-md-1 sponsor-row-col-md-1 feature__item_platinum{% if include.type %}--{{ include.type }}{% endif %}">
+    <div style="max-height:400px;max-width:800px;height:100%;width:100%;padding:8%;" class="sponsor-row-col-md-1 sponsor-row-col-md-1 feature__item_platinum{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item archive-item-custom-style">
         {% if f.image_path %}
           <div class="archive__item-teaser sp-img-platinum">
@@ -57,6 +62,10 @@
 
 </div>
 {% endif %}
+
+<!-- End of Platinum Sponsor Row -->
+
+<!-- Start of Gold Spondor Row -->
 
 {% if page.gold_sponsor_row %}
    <center><b><i><h3 class="sponsor-row-heading">Gold Sponsors</h3></i></b></center>
@@ -102,6 +111,106 @@
 </div>
 {% endif %}
 
+<!-- End of Gold Sponsor Row-->
+
+<!-- Start of Educational and Workshop Sponsor Row -->
+
+{% if page.education_workshop_sponsor_row %}
+   <center><b><i><h3 class="sponsor-row-heading">Educational and Workshop Sponsors</h3></i></b></center>
+
+<div class="sponsor_tier_wrapper sponsor-row-align">
+  {% for f in education_workshop_sponsor_row %}
+    <div class="sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item archive-item-custom-style">
+        {% if f.image_path %}
+          <div class="archive__item-teaser sp-img">
+            <a href="{{ f.url | relative_url }}">
+              <img style="max-height:300px;max-width:600px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+        {% comment %}
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          {% if f.level %}
+            <!-- <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3> -->
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+        {% endcomment %}
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
+
+<!-- End of Educational and Workshop Sponsor Row -->
+
+<!-- Start of Audio Visuals Sponsor Row -->
+
+{% if page.audio_visuals_sponsor_row %}
+   <center><b><i><h3 class="sponsor-row-heading">Audio Visuals Sponsors</h3></i></b></center>
+
+<div class="sponsor_tier_wrapper sponsor-row-align">
+  {% for f in audio_visuals_sponsor_row %}
+    <div class="sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+      <div class="archive__item archive-item-custom-style">
+        {% if f.image_path %}
+          <div class="archive__item-teaser sp-img">
+            <a href="{{ f.url | relative_url }}">
+              <img style="max-height:300px;max-width:600px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+            </a>
+            {% if f.image_caption %}
+              <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+            {% endif %}
+          </div>
+        {% endif %}
+        {% comment %}
+        <div class="archive__item-body">
+          {% if f.title %}
+            <h2 class="archive__item-title">{{ f.title }}</h2>
+          {% endif %}
+          {% if f.level %}
+            <!-- <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3> -->
+          {% endif %}
+
+          {% if f.excerpt %}
+            <div class="archive__item-excerpt">
+              {{ f.excerpt | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if f.url %}
+            <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+          {% endif %}
+        </div>
+        {% endcomment %}
+      </div>
+    </div>
+  {% endfor %}
+
+</div>
+{% endif %}
+
+<!-- End of Audio Visuals Sponsor Row -->
+
+<!-- Start of Silver Sponsor Row -->
+
 {% if page.silver_sponsor_row %}
    <center><b><i><h3 class="sponsor-row-heading">Silver Sponsors</h3></i></b></center>
 
@@ -146,6 +255,10 @@
 </div>
 {% endif %}
 
+<!-- End of Silver Sponsor Row -->
+
+<!-- Start of Silver Sponsor Row Two -->
+
 {% if page.silver_sponsor_row_two %}
 <div class="sponsor-row-align">
   {% for f in silver_sponsor_row_two %}
@@ -187,6 +300,55 @@
 
 </div>
 {% endif %}
+
+<!-- End of Silver Sponsor Row Two -->
+
+<!-- Start of Comunity Sponsors Row -->
+
+{% if page.{% if page.community_sponsor_row %}
+<center><b><i><h3 class="sponsor-row-heading">Community Sponsors</h3></i></b></center>
+
+<div class="sponsor_tier_wrapper sponsor-row-align">
+{% for f in community_sponsor_row %}
+ <div class="sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+   <div class="archive__item archive-item-custom-style">
+     {% if f.image_path %}
+       <div class="archive__item-teaser sp-img">
+         <a href="{{ f.url | relative_url }}">
+           <img style="max-height:150px;max-width:300px;height:100%;width:100%;" src="{{ f.image_path | relative_url }}" class="sp-img-css" alt="{% if f.alt %}{{ f.alt }}{% endif %}">
+         </a>
+         {% if f.image_caption %}
+           <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+         {% endif %}
+       </div>
+     {% endif %}
+     {% comment %}
+     <div class="archive__item-body">
+       {% if f.title %}
+         <h2 class="archive__item-title">{{ f.title }}</h2>
+       {% endif %}
+       {% if f.level %}
+         <!-- <h3 class="archive__item-excerpt">Sponsorship: {{ f.level }}</h3> -->
+       {% endif %}
+
+       {% if f.excerpt %}
+         <div class="archive__item-excerpt">
+           {{ f.excerpt | markdownify }}
+         </div>
+       {% endif %}
+
+       {% if f.url %}
+         <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+       {% endif %}
+     </div>
+     {% endcomment %}
+   </div>
+ </div>
+{% endfor %}
+
+<!-- End of Cummunity Sponsors Row -->
+
+<!-- Start of Bronze Sponsor Row -->
 
 {% if page.bronze_sponsor_row %}
    <center><b><i><h3 class="sponsor-row-heading">Bronze Sponsors</h3></i></b></center>
@@ -231,6 +393,10 @@
 </div>
 {% endif %}
 
+<!-- End of Bronze Sponsor Row -->
+
+<!-- Start of CTF Sponsor Row -->
+
 {% if page.ctf_sponsor_row %}
    <center><b><i><h3 class="sponsor-row-heading">CTF Sponsors</h3></i></b></center>
 <div class="sponsor_tier_wrapper sponsor-row-align">
@@ -273,5 +439,7 @@
 
 </div>
 {% endif %}
+
+<!-- End of CTF Sponsor Row-->
 
 </div>
