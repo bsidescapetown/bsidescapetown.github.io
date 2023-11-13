@@ -116,7 +116,7 @@
 <!-- Start of Educational and Workshop Sponsor Row -->
 
 {% if page.education_workshop_sponsor_row %}
-   <center><b><i><h3 class="sponsor-row-heading">Educational and Workshop Sponsors</h3></i></b>
+   <center><b><i><h3 class="sponsor-row-heading">Educational and Workshop Sponsors</h3></i></b></center>
 
 <div class="sponsor_tier_wrapper sponsor-row-align">
   {% for f in education_workshop_sponsor_row %}
@@ -158,7 +158,7 @@
 
 </div>
 {% endif %}
-</center>
+
 
 <!-- End of Educational and Workshop Sponsor Row -->
 
