@@ -303,9 +303,9 @@
 
 <!-- End of Silver Sponsor Row Two -->
 
-<!-- Start of Comunity Sponsors Row -->
+<!-- Start of Community Sponsors Row -->
 
-{% if page.{% if page.community_sponsor_row %}
+{% if page.community_sponsor_row %}
 <center><b><i><h3 class="sponsor-row-heading">Community Sponsors</h3></i></b></center>
 
 <div class="sponsor_tier_wrapper sponsor-row-align">
@@ -346,7 +346,7 @@
  </div>
 {% endfor %}
 
-<!-- End of Cummunity Sponsors Row -->
+<!-- End of Community Sponsors Row -->
 
 <!-- Start of Bronze Sponsor Row -->
 
