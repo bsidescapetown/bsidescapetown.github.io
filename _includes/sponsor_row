@@ -306,10 +306,10 @@
 <!-- Start of Community Sponsors Row -->
 
 {% if page.community_sponsor_row %}
-<center><b><i><h3 class="sponsor-row-heading">Community Sponsors</h3></i></b></center>
+  <center><b><i><h3 class="sponsor-row-heading">Community Sponsors</h3></i></b></center>
 
 <div class="sponsor_tier_wrapper sponsor-row-align">
-{% for f in community_sponsor_row %}
+  {% for f in community_sponsor_row %}
  <div class="sponsor-row-col-md-1  feature__item{% if include.type %}--{{ include.type }}{% endif %}">
    <div class="archive__item archive-item-custom-style">
      {% if f.image_path %}
@@ -342,9 +342,12 @@
        {% endif %}
      </div>
      {% endcomment %}
+     </div>
    </div>
- </div>
-{% endfor %}
+  {% endfor %}
+
+</div>
+{% endif %}
 
 <!-- End of Community Sponsors Row -->
 
