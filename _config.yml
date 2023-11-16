@@ -120,7 +120,7 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://www.facebook.com/groups/BSidesCapeTown"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: https://twitter.com/BSidesCapeTown
@@ -137,6 +137,9 @@ footer:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube"
       url: https://www.youtube.com/c/BSidesCapeTown
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: https://www.facebook.com/groups/BSidesCapeTown
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: https://github.com/bsidescapetown
@@ -148,7 +151,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/bsidescapetown/
 
 
 # Reading Files
