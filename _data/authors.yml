@@ -57,3 +57,18 @@ Pieter Blaauw:
     - label: "Youtube"
       icon: "fab fa-fw fa-youtube-square"
       url: "https://www.youtube.com/watch?v=iDH-3H6mJTg"
+
+blessing_mufaro:
+  name: "Blessing Mufaro Kashava"
+  bio: "Cybersecurity Consultant, BSides Cape Town Volunteer"
+  avatar: "/assets/images/authors/blessing.jpg"
+  links:
+    - label: "Blog"
+      icon: "fas fa-fw fa-blog"
+      url: "https://linktr.ee/blessingmufaro"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/blessing_mufaro"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/blessing-mufaro"
