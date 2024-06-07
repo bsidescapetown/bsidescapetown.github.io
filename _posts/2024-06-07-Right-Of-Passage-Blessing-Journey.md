@@ -48,7 +48,7 @@ Fig 1: Black Hat Asia Scholarship Award
 
 After four days, I got confirmation that I had successfully received the scholarship. This scholarship, however, only covered the entrance ticket. Enthusiastic as I was, I was content with watching the streamed content online. I mentioned this achievement on LinkedIn explicitly mentioning my inability to attend to attend the con in person, but grateful for the opportunity regardless. It was after a few hours of posting this update that I got a short comment from Charles, the BSides Cape Town Director – the one comment that unravelled the rest of my journey to Singapore!
 
-![Charles LinkedIn](/assets/images/2024/riteofpassage/img_3.jpg)  
+![Charles LinkedIn](/assets/images/2024/riteofpassage/img_3.png)  
 Fig 2: Charles’ comment on my LinkedIn Post
 
 Apparently the BSides Organizing Team had taken notice of my scholarship opportunity, and they expressed interest in potentially sponsoring my travel and accommodation to Black Hat Asia. After two weeks of research and budget planning the BSides Team approved the funding and paid for my flights, hotel and gave me a hefty stipend for petty expenses.
