@@ -22,7 +22,7 @@ tags:
 
 # Black Hat Asia – 2024 Rite of Passage Recipient
 
-About Me: [Blessing Mufaro](https://www.linkedin.com/in/blessing-mufaro-kashava/)
+About Me: [Blessing Mufaro Kashava](https://www.linkedin.com/in/blessing-mufaro-kashava/)
 
 TL; DR:
 *	Final Year Info Sec Undergraduate
