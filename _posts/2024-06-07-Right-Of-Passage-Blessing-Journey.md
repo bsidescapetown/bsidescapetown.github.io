@@ -22,13 +22,13 @@ tags:
 
 # Black Hat Asia – 2024 Rite of Passage Recipient
 
-About Me: [About Me]https://www.linkedin.com/in/blessing-mufaro-kashava/ 
+About Me: [About Me](https://www.linkedin.com/in/blessing-mufaro-kashava/)
 
 TL; DR:
-•	Final Year Info Sec Undergraduate
-•	Associate Cybersecurity Consultant
-•	Interested in Pentesting, CTFs
-•	Hobbies: Gaming, Blogging
+*	Final Year Info Sec Undergraduate
+*	Associate Cybersecurity Consultant
+*	Interested in Pentesting, CTFs
+*	Hobbies: Gaming, Blogging
 
 # About “The Rite of Passage”
 This initiative by BSides Cape Town was established as a program through which a student is sponsored to attend DEF CON or Black Hat. The individual is selected from a pool of volunteers that lend a hand at the BSides Cape Town conference each year. The essence of this initiative is to boost a student’s passion for cybersecurity through exposure to the global security community through attending the above-mentioned prestigious conferences. 
@@ -43,7 +43,7 @@ BSides Cape Town lived up to my expectations. I forged new connections, learned 
 # The Very Beginning
 After experiencing the invigorating sensation of volunteering at BSides Cape Town in 2023 ( https://bsidescapetown.co.za/conference/Bsides-Cape-Town-Volt-Post/ ), I was set on participating at more cons. By trying to manage expectations, I was planning on consistently attending BSides Cape Town each year in December, but with the establishment of BSides Joburg 2024 – that meant I’d be looking at going to two cons in a year. One fateful Friday afternoon I was having a conversation with a friend, and he mentioned how Black Hat Asia offered student scholarships, and that’s how I applied (that day coincidentally being the application deadline date).
 
-![header Image](/assets/images/2024/riteofpassage/img_2.jpg) 
+![header Image](/assets/images/2024/riteofpassage/img_2.png) 
 Fig 1: Black Hat Asia Scholarship Award
 
 After four days, I got confirmation that I had successfully received the scholarship. This scholarship, however, only covered the entrance ticket. Enthusiastic as I was, I was content with watching the streamed content online. I mentioned this achievement on LinkedIn explicitly mentioning my inability to attend to attend the con in person, but grateful for the opportunity regardless. It was after a few hours of posting this update that I got a short comment from Charles, the BSides Cape Town Director – the one comment that unravelled the rest of my journey to Singapore!
@@ -119,16 +119,16 @@ The experiences at BSides and Black Hat have inspired me to give back to my loca
 
 Acknowledgements
 I’d like to express my profound gratitude to everyone that made this trip a reality for me: 
-•	All 2023 BSides Sponsoring Companies
-•	Individuals that add that extra R1 towards “Rite of Passage” on ticket purchases.
-•	BSides Cape Town Organizing Team:
-o	Charles Wroth
-o	Roberto Arico 
-o	Christo Goosen 
-o	Isak Van Der Walt
-o	Mayan Stegmann
-o	Geoffrey Chisnall
-o	OTHER UNSUNG HEROES
+*	All 2023 BSides Sponsoring Companies
+*	Individuals that add that extra R1 towards “Rite of Passage” on ticket purchases.
+*	BSides Cape Town Organizing Team:
+  * Charles Wroth
+  * Roberto Arico 
+  * Christo Goosen 
+  * Isak Van Der Walt
+  *	Mayan Stegmann
+  *	Geoffrey Chisnall
+  *	OTHER UNSUNG HEROES
 
 Talks I listened in on:
 1.	Keynote – Securing Our Cyberspace Together (David Koh, Jeff Moss)
