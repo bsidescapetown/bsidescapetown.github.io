@@ -5,7 +5,7 @@ classes: wide
 layout: single
 author_profile: true
 header:
-  teaser: /assets/images/2023/volt_article/img_1.jpg
+  teaser: /assets/images/2024/riteofpassage/bhasia24_Logo.jpg
 excerpt_separator: "<!--more-->"
 categories:
  - Rite Of Passage
@@ -15,7 +15,7 @@ tags:
  - BSIDES
  - Cape Town
  - Infosec
- - Volt Insight
+ - Black Hat
 ---
 
 ![header Image](/assets/images/2024/riteofpassage/img_1.jpg) 
