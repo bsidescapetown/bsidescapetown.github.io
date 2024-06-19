@@ -22,7 +22,7 @@ tags:
 
 # Black Hat Asia – 2024 Rite of Passage Recipient
 
-About Me: [About Me](https://www.linkedin.com/in/blessing-mufaro-kashava/)
+About Me: [Blessing Mufaro Kashava](https://www.linkedin.com/in/blessing-mufaro-kashava/)
 
 TL; DR:
 *	Final Year Info Sec Undergraduate
@@ -120,16 +120,18 @@ The experiences at BSides and Black Hat have inspired me to give back to my loca
 Acknowledgements
 I’d like to express my profound gratitude to everyone that made this trip a reality for me: 
 *	All 2023 BSides Sponsoring Companies
-*	Individuals that add that extra R1 towards “Rite of Passage” on ticket purchases.
-*	BSides Cape Town Organizing Team:
+*	Individuals that contributed to the “Rite of Passage” on ticket purchases.
+* BSides Cape Town Organizing Team:
   * Charles Wroth
   * Roberto Arico 
   * Christo Goosen 
   * Isak Van Der Walt
   *	Mayan Stegmann
   *	Geoffrey Chisnall
-  *	OTHER UNSUNG HEROES
-
+  * Nuno Almeida
+  * Michele Wroth
+  * Jared Naude
+  
 Talks I listened in on:
 1.	Keynote – Securing Our Cyberspace Together (David Koh, Jeff Moss)
 2.	The key to Remote Vehicle: Autonomous Driving Domain Controller (Baidu)
