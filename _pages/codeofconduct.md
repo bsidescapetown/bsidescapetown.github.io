@@ -35,11 +35,7 @@ author_profile: false
 <p>We can&#8217;t follow up an anonymous report with you directly, but we will fully investigate it and take whatever action is necessary to prevent a recurrence.</p>
 <h3>Personal Report</h3>
 <p>You can make a personal report by:</p>
-<p>Contacting a staff member, identified by red STAFF shirts.<br />
+<p>Contacting a staff member.<br />
 When taking a personal report, our staff will ensure you are safe and cannot be overheard. They may involve other event staff to ensure your report is managed properly. Once safe, we&#8217;ll ask you to tell us about what happened. This can be upsetting, but we&#8217;ll handle it as respectfully as possible, and you can bring someone to support you. You won&#8217;t be asked to confront anyone and we won&#8217;t tell anyone who you are.</p>
 <p>Our team will be happy to help you contact hotel/venue security, local law enforcement, local support services, provide escorts, or otherwise assist you to feel safe for the duration of the event. We value your attendance.</p>
-<p>Organisers: <a href="mailto:code@bsidescapetown.co.za">code@bsidescapetown.co.za</a></p>
-<p>South African Police Service: 10 111</p>
-<p>Rape Crisis Cape Town Trust: 021 447-9762</p>
-<p>Groote Schuur Hospital: 021 404 9111</p>
-<p>Excite Taxis: 021 448 4444</p>
+<p>Organisers: <a href="mailto:organisers@bsidescapetown.co.za">organisers@bsidescapetown.co.za</a></p>
