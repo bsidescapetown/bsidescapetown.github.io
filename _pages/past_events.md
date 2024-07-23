@@ -64,7 +64,6 @@ author_profile: false
 </ul>
 <hr />
 
-==============================================
 <h1>BSides Cape Town 2022</h1>
 <p>3 December 2022 at The Old Biscuit Mill, Cape Town.</p>
 <a href="https://bsidescapetown.co.za/bsides-conf/2022">https://bsidescapetown.co.za/bsides-conf/2022</a>
