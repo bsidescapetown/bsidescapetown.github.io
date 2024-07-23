@@ -7,6 +7,64 @@ classes: wide
 author_profile: false
 ---
 
+<h1>BSides Cape Town 2023</h1>
+<p>2 December 2023 at The UCT GSB Conference Center - V&A Waterfront.</p>
+<a href="https://bsidescapetown.co.za/bsides-conf/2023">https://bsidescapetown.co.za/bsides-conf/2023</a>
+<p><strong>Talks:</strong></p>
+<ul>
+<li>Keynote: Impose Cost - Our defences eventually fail and we need to take the fight to the criminals - Singe</li>
+<li>Fun with GPON - Denver Abrey</li>
+<li>Securing A Derivatives Platform With Over $25b Volume - Kyle Riley</li>
+<li>Outsmarting cyber villains on a shoestring budget - Roshan Harneker</li>
+<li>How to sink a UBoot: Understanding bootloader attack surface - Keith Makan</li>
+<li>Embracing Dystopia: Building Secure Web Applications in the Age of Fast Development + Vulnerabilities - Jessie Auguste</li>
+<li>LPE in enterprise software - Reino Mostert</li>
+<li>Hacking "AAA" Unreal Engine Games with...Python? - Ross Simpson</li>
+<li>Attacking Microsoft Exchange: Fusing LightNeuron with Cobalt Strike - Leon</li>
+<li>The Wide World of Consent - Jonathon Everatt</li>
+<li>Dystopian much: The Rise of the Influence Machines - Nea Paw</li>
+<li>A Practical Supply Chain Hack: Blinking RGBs for fun & profit - Dale Nunns</li>
+<li>Let the Children play - Leveraging AD CS for persistance and profit in Parent-Child configured forests - Tinus</li>
+<li>Performance Hacking - how to hack your tools to go faster - Singe</li>
+<li>Forging Chains: The Java Blacksmith - Fabian Yamaguchi, David Baker Effendi</li>
+<li>Noooooooooo touch! - Michael Rodger</li>
+<li>2023 Year in Review: Threads of nation-state dystopia - Jared Naude</li>
+<li>Oops!!!...did I reveal something? - Javan Mnjama</li>
+<li>ed2root - how ancient IPC mechanisms can benifit you today - Conner</li>
+<li>Hack South: Home of the ubiquitous South - Charles "AngusRed" Wroth</li>
+<li>The cyber-pirate's guide to C2 development - Gerhard Botha</li>
+</ul>
+<p><strong>Workshops:</strong></p>
+<ul>
+<li>API security workshop - Colin Domoney</li>
+<li>Avoiding the API security apocalypse - Colin Domoney</li>
+<li>Defender's Den: Building a Reproducible Environment to Verify Cyber Defense Skills - Mikhail</li>
+<li>Elastic Security Capture The Flag - Marvin Ngoma</li>
+</ul>
+<p><strong>Sponsors:</strong></p>
+<ul>
+<li>Obscure</li>
+<li>Nclose</li>
+<li>Orange Cyberdefense</li>
+<li>Tenabe</li>
+<li>Cybereason</li>
+<li>Altered Security</li>
+<li>OffSec</li>
+<li> MWR Cybersec</li>
+<li>RiskX</li>
+<li>Keith Makan Security Consultancy</li>
+<li>KnowBe4</li>
+<li>Cyberlinx</li>
+<li>Mobius Binary</li>
+<li>Trend Micro</li>
+<li>Solve Solutions</li>
+<li>Vectra</li>
+<li>Hack South NPC</li>
+<li>Bitcrack Cyber Security</li>
+</ul>
+<hr />
+
+==============================================
 <h1>BSides Cape Town 2022</h1>
 <p>3 December 2022 at The Old Biscuit Mill, Cape Town.</p>
 <a href="https://bsidescapetown.co.za/bsides-conf/2022">https://bsidescapetown.co.za/bsides-conf/2022</a>
